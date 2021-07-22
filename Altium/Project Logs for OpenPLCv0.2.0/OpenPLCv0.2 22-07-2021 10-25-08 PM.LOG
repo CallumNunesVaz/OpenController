@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=ANALOG_IP[0..1] Member=P\I\_\L\E\D\_\P\W\R\
+Removed Member From Class: ClassName=100R_PAIRS Member=RESERVED3
+Removed Member From Class: ClassName=100R_PAIRS Member=VDAC_COMP
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Differential Pair Positive Net Name : Old Net Name=DSI1_D1_P New Net Name=DSI1_D1_P
+Change Differential Pair Positive Net Name : Old Net Name=DSI1_D0_P New Net Name=DSI1_D0_P
+Change Differential Pair Positive Net Name : Old Net Name=CAM1_D1_P New Net Name=CAM1_D1_P
+Change Differential Pair Positive Net Name : Old Net Name=CAM1_D0_P New Net Name=CAM1_D0_P
+Change Differential Pair Positive Net Name : Old Net Name=CAM0_D1_P New Net Name=CAM0_D1_P
+Change Differential Pair Positive Net Name : Old Net Name=CAM0_C_P New Net Name=CAM0_C_P
+Change Differential Pair Positive Net Name : Old Net Name=DSI1_D3_P New Net Name=DSI1_D3_P
+Change Differential Pair Positive Net Name : Old Net Name=DSI1_C_P New Net Name=DSI1_C_P
+Change Differential Pair Negative Net Name : Old Net Name=HDMI1_TX0_N New Net Name=HDMI1_TX0_N
+Change Differential Pair Negative Net Name : Old Net Name=HDMI1_CLK_N New Net Name=HDMI1_CLK_N
+Change Differential Pair Negative Net Name : Old Net Name=HDMI1_TX2_N New Net Name=HDMI1_TX2_N
+Change Differential Pair Negative Net Name : Old Net Name=HDMI1_TX1_N New Net Name=HDMI1_TX1_N
+Added Member To Class: ClassName=ANALOG_IP[0..1] Member=Element[0]: ANALOG_IP
+Added Member To Class: ClassName=100R_PAIRS Member=Wire CAM0_C_P
+Added Member To Class: ClassName=100R_PAIRS Member=Wire CAM1_D0_P
+Added Member To Class: ClassName=100R_PAIRS Member=Wire DSI1_C_P
+Added Member To Class: ClassName=100R_PAIRS Member=Wire DSI1_D0_P
+Added Member To Class: ClassName=100R_PAIRS Member=Wire DSI1_D3_P
+Added Member To Class: ClassName=100R_PAIRS Member=Wire HDMI1_CLK_N
+Added Member To Class: ClassName=100R_PAIRS Member=Wire HDMI1_TX1_N

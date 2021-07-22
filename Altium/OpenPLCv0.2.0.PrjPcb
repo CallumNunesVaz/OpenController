@@ -960,23 +960,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MUDYPBXZ
 
 [Document55]
-DocumentPath=OpenPLCv0.2.0_TopLevel.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document56]
 DocumentPath=OpenPLCv0.2.0_RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -993,7 +976,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMHMDPJD
 
-[Document57]
+[Document56]
 DocumentPath=OpenPLCv0.2.0_GPIOExpander.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1010,7 +993,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVXMSMSH
 
-[Document58]
+[Document57]
 DocumentPath=OpenPLCv0.2.0_GPIOExpander.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1027,8 +1010,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=OpenPLCv0.2.0_RS485.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document59]
+DocumentPath=OpenPLCv0.2.0_TopLevel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
