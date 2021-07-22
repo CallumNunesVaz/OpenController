@@ -1,9 +1,0 @@
-Added Component: Designator=F1(SMD_RES_1206(3216)_N)
-Added Component: Designator=F2(SMD_RES_1206(3216)_N)
-Added Pin To Net: NetName=AOUT1 Pin=F1-1
-Added Pin To Net: NetName=AOUT1_PTC Pin=F1-2
-Added Pin To Net: NetName=AOUT1 Pin=F2-1
-Added Pin To Net: NetName=AOUT1_PTC Pin=F2-2
-Added Member To Class: ClassName=AnalogueOut Member=Component F1 JK-NSMD005
-Added Member To Class: ClassName=AnalogueOut Member=Component F2 JK-NSMD005
-Added Member To Class: ClassName=AnalogueOut Member=Component R1 RC0402FR-0710KL

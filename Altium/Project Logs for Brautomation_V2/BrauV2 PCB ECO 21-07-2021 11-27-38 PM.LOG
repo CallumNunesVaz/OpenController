@@ -1,3 +1,0 @@
-Change Component Footprint: Designator=L2 Old Footprint=TMPC1206HP-470MG-D New Footprint=HM78D-128470MLFTR
-Added Pin To Net: NetName=NetC32_2 Pin=L2-3
-Added Pin To Net: NetName=NetC32_1 Pin=L2-4
