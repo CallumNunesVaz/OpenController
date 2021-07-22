@@ -42,7 +42,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=BrauV2_TopLevel.SchDoc
+DocumentPath=OpenPLCv0.2.0_TopLevel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -59,7 +59,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OANCQVDW
 
 [Document2]
-DocumentPath=BrauV2.BomDoc
+DocumentPath=OpenPLCv0.2.0.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -76,7 +76,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=BrauV2_Assembly.OutJob
+DocumentPath=OpenPLCv0.2.0_Assembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -93,7 +93,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=BrauV2_ComputeModule.Harness
+DocumentPath=OpenPLCv0.2.0_ComputeModule.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -110,7 +110,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=BrauV2_ComputeModule.SchDoc
+DocumentPath=OpenPLCv0.2.0_ComputeModule.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -127,7 +127,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LAUXIEOW
 
 [Document6]
-DocumentPath=BrauV2_Fabrication.OutJob
+DocumentPath=OpenPLCv0.2.0_Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,7 +144,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=BrauV2_Power.SchDoc
+DocumentPath=OpenPLCv0.2.0_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -161,7 +161,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YYPEACGZ
 
 [Document8]
-DocumentPath=BrauV2_Schematic.OutJob
+DocumentPath=OpenPLCv0.2.0_Schematic.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -178,7 +178,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=BrauV2_AnalogueOutput.SchDoc
+DocumentPath=OpenPLCv0.2.0_AnalogueOutput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -195,7 +195,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QPPLPPTU
 
 [Document10]
-DocumentPath=BrauV2_AnalogueOutput.Harness
+DocumentPath=OpenPLCv0.2.0_AnalogueOutput.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -212,7 +212,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=BrauV2_Capacitor.SchLib
+DocumentPath=OpenPLCv0.2.0_Capacitor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -229,7 +229,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YDBAMEGM
 
 [Document12]
-DocumentPath=BrauV2_Connector.PcbLib
+DocumentPath=OpenPLCv0.2.0_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -246,7 +246,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MTKEPFNG
 
 [Document13]
-DocumentPath=BrauV2_Connector.SchLib
+DocumentPath=OpenPLCv0.2.0_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -263,7 +263,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EQRAVMXM
 
 [Document14]
-DocumentPath=BrauV2_Discrete_SMD.PcbLib
+DocumentPath=OpenPLCv0.2.0_Discrete_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -280,7 +280,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VYQCTNXM
 
 [Document15]
-DocumentPath=BrauV2_IC.PcbLib
+DocumentPath=OpenPLCv0.2.0_IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -297,7 +297,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TJAUARYW
 
 [Document16]
-DocumentPath=BrauV2_IC.SchLib
+DocumentPath=OpenPLCv0.2.0_IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -314,7 +314,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LAYVIABH
 
 [Document17]
-DocumentPath=BrauV2_Resistor.SchLib
+DocumentPath=OpenPLCv0.2.0_Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -331,7 +331,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LFYULGQO
 
 [Document18]
-DocumentPath=BrauV2_Diode.SchLib
+DocumentPath=OpenPLCv0.2.0_Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -348,7 +348,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JBXJJPNU
 
 [Document19]
-DocumentPath=BrauV2_AnalogueInput.SchDoc
+DocumentPath=OpenPLCv0.2.0_AnalogueInput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -365,7 +365,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BWJJZHPA
 
 [Document20]
-DocumentPath=BrauV2_RTC.SchDoc
+DocumentPath=OpenPLCv0.2.0_RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -382,7 +382,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BIGAOVTA
 
 [Document21]
-DocumentPath=BrauV2_RTC.Harness
+DocumentPath=OpenPLCv0.2.0_RTC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -399,7 +399,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=BrauV2_Passives.SchLib
+DocumentPath=OpenPLCv0.2.0_Passives.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -416,7 +416,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OJQJONYL
 
 [Document23]
-DocumentPath=BrauV2_Display.SchDoc
+DocumentPath=OpenPLCv0.2.0_Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -433,7 +433,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CWYLZLFV
 
 [Document24]
-DocumentPath=BrauV2_Display.Harness
+DocumentPath=OpenPLCv0.2.0_Display.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -450,7 +450,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=BrauV2_1Wire.SchDoc
+DocumentPath=OpenPLCv0.2.0_1Wire.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -467,7 +467,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CMCKCQPR
 
 [Document26]
-DocumentPath=BrauV2_1Wire.Harness
+DocumentPath=OpenPLCv0.2.0_1Wire.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -484,7 +484,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=BrauV2_Etherent.SchDoc
+DocumentPath=OpenPLCv0.2.0_Etherent.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -501,7 +501,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EABXWMBD
 
 [Document28]
-DocumentPath=BrauV2_Etherent.Harness
+DocumentPath=OpenPLCv0.2.0_Etherent.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -518,7 +518,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=BrauV2_USBPortTypeA.SchDoc
+DocumentPath=OpenPLCv0.2.0_USBPortTypeA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -535,7 +535,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZWMIPTWA
 
 [Document30]
-DocumentPath=BrauV2_Inductor.SchLib
+DocumentPath=OpenPLCv0.2.0_Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -552,7 +552,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OJHQJFSN
 
 [Document31]
-DocumentPath=BrauV2_Transistor.SchLib
+DocumentPath=OpenPLCv0.2.0_Transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -569,7 +569,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XNGWHKET
 
 [Document32]
-DocumentPath=BrauV2_BinaryOut.SchDoc
+DocumentPath=OpenPLCv0.2.0_BinaryOut.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -586,7 +586,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HFZIBJPZ
 
 [Document33]
-DocumentPath=BrauV2_Misc.SchLib
+DocumentPath=OpenPLCv0.2.0_Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -603,7 +603,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WQBLVTOZ
 
 [Document34]
-DocumentPath=BrauV2_Misc.PcbLib
+DocumentPath=OpenPLCv0.2.0_Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -620,7 +620,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CMVQYPSL
 
 [Document35]
-DocumentPath=BrauV2_IOController.SchDoc
+DocumentPath=OpenPLCv0.2.0_IOController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -637,7 +637,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YNDIFNBJ
 
 [Document36]
-DocumentPath=BrauV2_IOController.Harness
+DocumentPath=OpenPLCv0.2.0_IOController.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -654,7 +654,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=BrauV2_IOLED.SchDoc
+DocumentPath=OpenPLCv0.2.0_IOLED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -671,7 +671,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PUWRBWDR
 
 [Document38]
-DocumentPath=BrauV2_USBPortTypeA.Harness
+DocumentPath=OpenPLCv0.2.0_USBPortTypeA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -688,7 +688,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=BrauV2_Assembly.PCBDwf
+DocumentPath=OpenPLCv0.2.0_Assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -705,7 +705,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=BrauV2_Fabrication.PCBDwf
+DocumentPath=OpenPLCv0.2.0_Fabrication.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -722,7 +722,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=BrauV2.PcbDoc
+DocumentPath=OpenPLCv0.2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -739,7 +739,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CHGXIQRB
 
 [Document42]
-DocumentPath=BrauV2_PANEL.PcbDoc
+DocumentPath=OpenPLCv0.2.0_PANEL.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -756,7 +756,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EHSDSGDL
 
 [Document43]
-DocumentPath=BrauV2_SerialInterface.SchDoc
+DocumentPath=OpenPLCv0.2.0_SerialInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -773,7 +773,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WGRTPGYN
 
 [Document44]
-DocumentPath=BrauV2_SerialInterface.Harness
+DocumentPath=OpenPLCv0.2.0_SerialInterface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -790,7 +790,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document45]
-DocumentPath=BrauV2_USBSwitch.SchDoc
+DocumentPath=OpenPLCv0.2.0_USBSwitch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -807,7 +807,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JTBPWULJ
 
 [Document46]
-DocumentPath=BrauV2_USBSwitch.Harness
+DocumentPath=OpenPLCv0.2.0_USBSwitch.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -824,7 +824,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=BrauV2_USBPortTypeB.SchDoc
+DocumentPath=OpenPLCv0.2.0_USBPortTypeB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -841,7 +841,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VSITRXKE
 
 [Document48]
-DocumentPath=BrauV2_USBPortTypeB.Harness
+DocumentPath=OpenPLCv0.2.0_USBPortTypeB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -858,7 +858,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document49]
-DocumentPath=BrauV2_SDCard.SchDoc
+DocumentPath=OpenPLCv0.2.0_SDCard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -875,7 +875,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BOFIORKC
 
 [Document50]
-DocumentPath=BrauV2_SDCard.Harness
+DocumentPath=OpenPLCv0.2.0_SDCard.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -892,7 +892,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=BrauV2_Buzzer.SchDoc
+DocumentPath=OpenPLCv0.2.0_Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -909,7 +909,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RINWOQRZ
 
 [Document52]
-DocumentPath=BrauV2_ExpansionHeader.SchDoc
+DocumentPath=OpenPLCv0.2.0_ExpansionHeader.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -926,7 +926,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BEBKSOZB
 
 [Document53]
-DocumentPath=BrauV2_ExpansionHeader.Harness
+DocumentPath=OpenPLCv0.2.0_ExpansionHeader.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -943,7 +943,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document54]
-DocumentPath=BrauV2_Watchdog.SchDoc
+DocumentPath=OpenPLCv0.2.0_Watchdog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -960,7 +960,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUDYPBXZ
 
 [Document55]
-DocumentPath=BrauV2_TopLevel.Harness
+DocumentPath=OpenPLCv0.2.0_TopLevel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -977,7 +977,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document56]
-DocumentPath=BrauV2_RS485.SchDoc
+DocumentPath=OpenPLCv0.2.0_RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -994,7 +994,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IMHMDPJD
 
 [Document57]
-DocumentPath=BrauV2_GPIOExpander.SchDoc
+DocumentPath=OpenPLCv0.2.0_GPIOExpander.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1011,7 +1011,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FVXMSMSH
 
 [Document58]
-DocumentPath=BrauV2_GPIOExpander.Harness
+DocumentPath=OpenPLCv0.2.0_GPIOExpander.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1028,7 +1028,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document59]
-DocumentPath=BrauV2_RS485.Harness
+DocumentPath=OpenPLCv0.2.0_RS485.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1053,20 +1053,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Parameter2]
-Name=ProjectRevision
-Value=0.2
-
-[Parameter3]
 Name=ProjectDate
 Value=XX/XX/XXXX
 
+[Parameter3]
+Name=ProjectRevision
+Value=0.2
+
 [Parameter4]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Configuration1]
 Name=Sources
