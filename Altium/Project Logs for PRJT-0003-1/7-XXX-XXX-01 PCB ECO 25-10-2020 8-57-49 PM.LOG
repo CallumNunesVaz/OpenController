@@ -1,0 +1,20 @@
+Change Net Name : Old Net Name=I2C0.SCL New Net Name=I2C_ID.SCL
+Change Net Name : Old Net Name=I2C0.SDA New Net Name=I2C_ID.SDA
+Change Net Name : Old Net Name=P\C\I\E\_\C\L\K\_\N\ New Net Name=P\C\I\E\_\C\L\K\_N
+Change Net Name : Old Net Name=P\C\I\E\_\C\L\K\_\P\ New Net Name=P\C\I\E\_\C\L\K\_P
+Change Net Name : Old Net Name=P\C\I\E\_\R\X\_\N\ New Net Name=P\C\I\E\_\T\X\_N
+Change Net Name : Old Net Name=P\C\I\E\_\R\X\_\P\ New Net Name=P\C\I\E\_\T\X\_P
+Change Net Name : Old Net Name=P\C\I\E\_\T\X\_\N\ New Net Name=P\C\I\E\_\R\X\_N
+Change Net Name : Old Net Name=P\C\I\E\_\T\X\_\P\ New Net Name=P\C\I\E\_\R\X\_P
+Change Net Name : Old Net Name=SCL0 New Net Name=I2C0.SCL
+Change Net Name : Old Net Name=SDA0 New Net Name=I2C0.SDA
+Added Differential Pair: Name=P\C\I\E\_\C\L\K\
+Added Differential Pair: Name=P\C\I\E\_\R\X\
+Added Differential Pair: Name=P\C\I\E\_\T\X\
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\C\L\K\_N
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\C\L\K\_P
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\R\X\_N
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\R\X\_P
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\T\X\_N
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\T\X\_P
+Added Class: Name=90R_DIFF_PAIRS

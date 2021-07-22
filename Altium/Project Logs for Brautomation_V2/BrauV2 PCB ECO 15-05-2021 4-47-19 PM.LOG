@@ -1,0 +1,127 @@
+Change Component Footprint: Designator=R86_1 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_2 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_3 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_4 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_5 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_6 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_7 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_8 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R86_9 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_1 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_2 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_3 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_4 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_5 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_6 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_7 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_8 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R87_9 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Comment : Designator=R86_1 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_2 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_3 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_4 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_5 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_6 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_7 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_8 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R86_9 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_1 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_2 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_3 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_4 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_5 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_6 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_7 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_8 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R87_9 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change component parameters: Designator = "R86_1" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\XJPIGZZQ\TEZKAGFS\ZYGNGOFC" ("\XJPIGZZQ\TEZKAGFS\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_2" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\1ODQGHZZQ\ZYGNGOFC" ("\JDFPZXGU\1ODQGHZZQ\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_3" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\2ODQGHZZQ\ZYGNGOFC" ("\JDFPZXGU\2ODQGHZZQ\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_4" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\3ODQGHZZQ\ZYGNGOFC" ("\JDFPZXGU\3ODQGHZZQ\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_5" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\4ODQGHZZQ\ZYGNGOFC" ("\JDFPZXGU\4ODQGHZZQ\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_6" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\NPRPWHDM\1JEWVQTPG\ZYGNGOFC" ("\NPRPWHDM\1JEWVQTPG\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_7" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\NPRPWHDM\2JEWVQTPG\ZYGNGOFC" ("\NPRPWHDM\2JEWVQTPG\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_8" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\IBBKLGXU\1JEWVQTPG\ZYGNGOFC" ("\IBBKLGXU\1JEWVQTPG\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86_9" ("R86"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\IBBKLGXU\2JEWVQTPG\ZYGNGOFC" ("\IBBKLGXU\2JEWVQTPG\ZYGNGOFC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_1" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\XJPIGZZQ\TEZKAGFS\WZYWUBSU" ("\XJPIGZZQ\TEZKAGFS\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_2" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\1ODQGHZZQ\WZYWUBSU" ("\JDFPZXGU\1ODQGHZZQ\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_3" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\2ODQGHZZQ\WZYWUBSU" ("\JDFPZXGU\2ODQGHZZQ\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_4" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\3ODQGHZZQ\WZYWUBSU" ("\JDFPZXGU\3ODQGHZZQ\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_5" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\JDFPZXGU\4ODQGHZZQ\WZYWUBSU" ("\JDFPZXGU\4ODQGHZZQ\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_6" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\NPRPWHDM\1JEWVQTPG\WZYWUBSU" ("\NPRPWHDM\1JEWVQTPG\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_7" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\NPRPWHDM\2JEWVQTPG\WZYWUBSU" ("\NPRPWHDM\2JEWVQTPG\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_8" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\IBBKLGXU\1JEWVQTPG\WZYWUBSU" ("\IBBKLGXU\1JEWVQTPG\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R87_9" ("R87"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\IBBKLGXU\2JEWVQTPG\WZYWUBSU" ("\IBBKLGXU\2JEWVQTPG\WZYWUBSU")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Room: Name=CM4

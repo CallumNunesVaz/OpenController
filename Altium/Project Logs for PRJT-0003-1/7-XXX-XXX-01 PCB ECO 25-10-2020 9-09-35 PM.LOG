@@ -1,0 +1,4 @@
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=90R_PAIRS Member=Wire USB_D_N
+Added Member To Class: ClassName=90R_PAIRS Member=Wire USB_D_P
+Added Member To Class: ClassName=90R_DIFF_PAIRS Member=USB_D

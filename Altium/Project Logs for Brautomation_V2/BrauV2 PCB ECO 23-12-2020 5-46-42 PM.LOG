@@ -1,0 +1,59 @@
+Added Component: Designator=D1(SOD-123FL)
+Added Component: Designator=D2(SOD-123FL)
+Added Component: Designator=J3(796638-2)
+Added Component: Designator=J4(796638-2)
+Added Component: Designator=U1(TSSOP-14)
+Added Component: Designator=U2(SOT23-6)
+Added Component: Designator=U3(SOT23-6)
+Added Component: Designator=U4(SOIC-8-3.9mm)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=AOUT1 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=AOUT1 Pin=D2-2
+Added Pin To Net: NetName=AOUT1_PTC Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=AOUT1_PTC Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=NetR3_1 Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Pin To Net: NetName=24V Pin=U1-4
+Added Pin To Net: NetName=NetC4_2 Pin=U1-5
+Added Pin To Net: NetName=NetC4_1 Pin=U1-6
+Added Pin To Net: NetName=FB_CC_1 Pin=U1-7
+Added Pin To Net: NetName=NetR14_1 Pin=U1-8
+Added Pin To Net: NetName=NetC5_1 Pin=U1-9
+Added Pin To Net: NetName=NetC5_2 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC8_2 Pin=U1-12
+Added Pin To Net: NetName=NetC8_1 Pin=U1-13
+Added Pin To Net: NetName=FB_CC_2 Pin=U1-14
+Added Pin To Net: NetName=FB_CC_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=FB_CV_1 Pin=U2-3
+Added Pin To Net: NetName=FB_1 Pin=U2-4
+Added Pin To Net: NetName=5V Pin=U2-5
+Added Pin To Net: NetName=CV_CC_MODE_SEL_1 Pin=U2-6
+Added Pin To Net: NetName=FB_CC_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=FB_CV_2 Pin=U3-3
+Added Pin To Net: NetName=FB_2 Pin=U3-4
+Added Pin To Net: NetName=5V Pin=U3-5
+Added Pin To Net: NetName=CV_CC_MODE_SEL_2 Pin=U3-6
+Added Pin To Net: NetName=I2S.BCK Pin=U4-1
+Added Pin To Net: NetName=I2S.WS Pin=U4-2
+Added Pin To Net: NetName=I2S.DIN Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=5V Pin=U4-5
+Added Pin To Net: NetName=DAC_CH1 Pin=U4-6
+Added Pin To Net: NetName=DAC_CH2 Pin=U4-8
+Added Member To Class: ClassName=AnalogueOut Member=Component D1 SMF22A
+Added Member To Class: ClassName=AnalogueOut Member=Component D2 SMF22A
+Added Member To Class: ClassName=AnalogueOut Member=Component J3 WJ2EDGRC-5.08-2P
+Added Member To Class: ClassName=AnalogueOut Member=Component J4 WJ2EDGRC-5.08-2P
+Added Member To Class: ClassName=AnalogueOut Member=Component U1 LM324DTBR2G
+Added Member To Class: ClassName=AnalogueOut Member=Component U2 WAS3157B
+Added Member To Class: ClassName=AnalogueOut Member=Component U3 WAS3157B
+Added Member To Class: ClassName=AnalogueOut Member=Component U4 TM8211
+Added Room: Name=AnalogueOut
+Added Room: Name=CM4

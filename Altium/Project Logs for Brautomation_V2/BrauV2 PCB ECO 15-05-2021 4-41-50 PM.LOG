@@ -1,0 +1,282 @@
+Added Component: Designator=D23_1(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_2(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_3(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_4(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_5(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_6(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_7(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_8(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=D23_9(LED_3MM_SPACED_6.4MM_GREEN)
+Added Component: Designator=J26_1(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_2(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_3(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_4(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_5(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_6(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_7(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_8(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=J26_9(3MM_LED_SPACER_6.4MM)
+Added Component: Designator=Q7_1(SOT23-3)
+Added Component: Designator=Q7_2(SOT23-3)
+Added Component: Designator=Q7_3(SOT23-3)
+Added Component: Designator=Q7_4(SOT23-3)
+Added Component: Designator=Q7_5(SOT23-3)
+Added Component: Designator=Q7_6(SOT23-3)
+Added Component: Designator=Q7_7(SOT23-3)
+Added Component: Designator=Q7_8(SOT23-3)
+Added Component: Designator=Q7_9(SOT23-3)
+Added Component: Designator=R86_1(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_2(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_3(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_4(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_5(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_6(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_7(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_8(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R86_9(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_1(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_2(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_3(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_4(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_5(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_6(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_7(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_8(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R87_9(SMD_RES_2512(6432)_N)
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_1(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_2(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_3(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_4(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_5(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_6(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_7(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_8(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R88_9(SMD_RES_0402(1005)_N)
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD23_1_A Pin=D23_1-A
+Added Pin To Net: NetName=NetD23_1_K Pin=D23_1-K
+Added Pin To Net: NetName=NetD23_2_A Pin=D23_2-A
+Added Pin To Net: NetName=NetD23_2_K Pin=D23_2-K
+Added Pin To Net: NetName=NetD23_3_A Pin=D23_3-A
+Added Pin To Net: NetName=NetD23_3_K Pin=D23_3-K
+Added Pin To Net: NetName=NetD23_4_A Pin=D23_4-A
+Added Pin To Net: NetName=NetD23_4_K Pin=D23_4-K
+Added Pin To Net: NetName=NetD23_5_A Pin=D23_5-A
+Added Pin To Net: NetName=NetD23_5_K Pin=D23_5-K
+Added Pin To Net: NetName=NetD23_6_A Pin=D23_6-A
+Added Pin To Net: NetName=NetD23_6_K Pin=D23_6-K
+Added Pin To Net: NetName=NetD23_7_A Pin=D23_7-A
+Added Pin To Net: NetName=NetD23_7_K Pin=D23_7-K
+Added Pin To Net: NetName=NetD23_8_A Pin=D23_8-A
+Added Pin To Net: NetName=NetD23_8_K Pin=D23_8-K
+Added Pin To Net: NetName=NetD23_9_A Pin=D23_9-A
+Added Pin To Net: NetName=NetD23_9_K Pin=D23_9-K
+Added Pin To Net: NetName=NetQ7_1_1 Pin=Q7_1-1
+Added Pin To Net: NetName=GND Pin=Q7_1-2
+Added Pin To Net: NetName=NetD23_1_K Pin=Q7_1-3
+Added Pin To Net: NetName=NetQ7_2_1 Pin=Q7_2-1
+Added Pin To Net: NetName=GND Pin=Q7_2-2
+Added Pin To Net: NetName=NetD23_2_K Pin=Q7_2-3
+Added Pin To Net: NetName=NetQ7_3_1 Pin=Q7_3-1
+Added Pin To Net: NetName=GND Pin=Q7_3-2
+Added Pin To Net: NetName=NetD23_3_K Pin=Q7_3-3
+Added Pin To Net: NetName=NetQ7_4_1 Pin=Q7_4-1
+Added Pin To Net: NetName=GND Pin=Q7_4-2
+Added Pin To Net: NetName=NetD23_4_K Pin=Q7_4-3
+Added Pin To Net: NetName=NetQ7_5_1 Pin=Q7_5-1
+Added Pin To Net: NetName=GND Pin=Q7_5-2
+Added Pin To Net: NetName=NetD23_5_K Pin=Q7_5-3
+Added Pin To Net: NetName=NetQ7_6_1 Pin=Q7_6-1
+Added Pin To Net: NetName=GND Pin=Q7_6-2
+Added Pin To Net: NetName=NetD23_6_K Pin=Q7_6-3
+Added Pin To Net: NetName=NetQ7_7_1 Pin=Q7_7-1
+Added Pin To Net: NetName=GND Pin=Q7_7-2
+Added Pin To Net: NetName=NetD23_7_K Pin=Q7_7-3
+Added Pin To Net: NetName=NetQ7_8_1 Pin=Q7_8-1
+Added Pin To Net: NetName=GND Pin=Q7_8-2
+Added Pin To Net: NetName=NetD23_8_K Pin=Q7_8-3
+Added Pin To Net: NetName=NetQ7_9_1 Pin=Q7_9-1
+Added Pin To Net: NetName=GND Pin=Q7_9-2
+Added Pin To Net: NetName=NetD23_9_K Pin=Q7_9-3
+Added Pin To Net: NetName=NetD23_1_A Pin=R86_1-1
+Added Pin To Net: NetName=3V3 Pin=R86_1-2
+Added Pin To Net: NetName=NetD23_2_A Pin=R86_2-1
+Added Pin To Net: NetName=3V3 Pin=R86_2-2
+Added Pin To Net: NetName=NetD23_3_A Pin=R86_3-1
+Added Pin To Net: NetName=3V3 Pin=R86_3-2
+Added Pin To Net: NetName=NetD23_4_A Pin=R86_4-1
+Added Pin To Net: NetName=3V3 Pin=R86_4-2
+Added Pin To Net: NetName=NetD23_5_A Pin=R86_5-1
+Added Pin To Net: NetName=3V3 Pin=R86_5-2
+Added Pin To Net: NetName=NetD23_6_A Pin=R86_6-1
+Added Pin To Net: NetName=3V3 Pin=R86_6-2
+Added Pin To Net: NetName=NetD23_7_A Pin=R86_7-1
+Added Pin To Net: NetName=3V3 Pin=R86_7-2
+Added Pin To Net: NetName=NetD23_8_A Pin=R86_8-1
+Added Pin To Net: NetName=3V3 Pin=R86_8-2
+Added Pin To Net: NetName=NetD23_9_A Pin=R86_9-1
+Added Pin To Net: NetName=3V3 Pin=R86_9-2
+Added Pin To Net: NetName=NetQ7_1_1 Pin=R87_1-1
+Added Pin To Net: NetName=LED_1 Pin=R87_1-2
+Added Pin To Net: NetName=NetQ7_2_1 Pin=R87_2-1
+Added Pin To Net: NetName=AIN_1 Pin=R87_2-2
+Added Pin To Net: NetName=NetQ7_3_1 Pin=R87_3-1
+Added Pin To Net: NetName=AIN_2 Pin=R87_3-2
+Added Pin To Net: NetName=NetQ7_4_1 Pin=R87_4-1
+Added Pin To Net: NetName=AIN_3 Pin=R87_4-2
+Added Pin To Net: NetName=NetQ7_5_1 Pin=R87_5-1
+Added Pin To Net: NetName=AIN_4 Pin=R87_5-2
+Added Pin To Net: NetName=NetQ7_6_1 Pin=R87_6-1
+Added Pin To Net: NetName=AOUT1_1 Pin=R87_6-2
+Added Pin To Net: NetName=NetQ7_7_1 Pin=R87_7-1
+Added Pin To Net: NetName=AOUT2_1 Pin=R87_7-2
+Added Pin To Net: NetName=NetQ7_8_1 Pin=R87_8-1
+Added Pin To Net: NetName=AOUT1_2 Pin=R87_8-2
+Added Pin To Net: NetName=NetQ7_9_1 Pin=R87_9-1
+Added Pin To Net: NetName=AOUT2_2 Pin=R87_9-2
+Added Pin To Net: NetName=GND Pin=R88_1-1
+Added Pin To Net: NetName=NetQ7_1_1 Pin=R88_1-2
+Added Pin To Net: NetName=GND Pin=R88_2-1
+Added Pin To Net: NetName=NetQ7_2_1 Pin=R88_2-2
+Added Pin To Net: NetName=GND Pin=R88_3-1
+Added Pin To Net: NetName=NetQ7_3_1 Pin=R88_3-2
+Added Pin To Net: NetName=GND Pin=R88_4-1
+Added Pin To Net: NetName=NetQ7_4_1 Pin=R88_4-2
+Added Pin To Net: NetName=GND Pin=R88_5-1
+Added Pin To Net: NetName=NetQ7_5_1 Pin=R88_5-2
+Added Pin To Net: NetName=GND Pin=R88_6-1
+Added Pin To Net: NetName=NetQ7_6_1 Pin=R88_6-2
+Added Pin To Net: NetName=GND Pin=R88_7-1
+Added Pin To Net: NetName=NetQ7_7_1 Pin=R88_7-2
+Added Pin To Net: NetName=GND Pin=R88_8-1
+Added Pin To Net: NetName=NetQ7_8_1 Pin=R88_8-2
+Added Pin To Net: NetName=GND Pin=R88_9-1
+Added Pin To Net: NetName=NetQ7_9_1 Pin=R88_9-2
+Added Class: Name=LED_1W
+Added Class: Name=LED_AI1
+Added Class: Name=LED_AI2
+Added Class: Name=LED_AI3
+Added Class: Name=LED_AI4
+Added Class: Name=LED_AO6
+Added Class: Name=LED_AO7
+Added Class: Name=LED_AO8
+Added Class: Name=LED_AO9
+Added Member To Class: ClassName=AnalogueIn_x4 Member=Component J27 WJ2EDGRC-5.08-2P
+Change Room Name: Old Name=CM4 New Name=LED_AI2
+Change Room Scope: Old Scope=InComponentClass('CM4') New Scope=InComponentClass('LED_AI2')
+Added Room: Name=CM4
+Added Room: Name=LED_1W
+Added Room: Name=LED_AI1
+Added Room: Name=LED_AI3
+Added Room: Name=LED_AI4
+Added Room: Name=LED_AO6
+Added Room: Name=LED_AO7
+Added Room: Name=LED_AO8
+Added Room: Name=LED_AO9

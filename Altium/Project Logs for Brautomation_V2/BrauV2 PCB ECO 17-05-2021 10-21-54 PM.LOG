@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetD7_A Pin=R43-1
+Removed Pin From Net: NetName=3V3 Pin=R43-2
+Removed Pin From Net: NetName=NetD22_A Pin=R83-1
+Removed Pin From Net: NetName=3V3 Pin=R83-2
+Change Component Footprint: Designator=R43 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R70 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R83 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Footprint: Designator=R84 Old Footprint=SMD_RES_2512(6432)_N New Footprint=SMD_RES_0402(1005)_N
+Change Component Comment : Designator=R43 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R70 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R83 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R84 Old Comment=AC2512FK-07470RL New Comment=RC0402FR-07470RL
+Change component parameters: Designator = "R43" ("R43"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\TKWWRQBJ\HHLQCZOI" ("\TKWWRQBJ\HHLQCZOI")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R70" ("R70"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\TKWWRQBJ\UZUUXMYX" ("\TKWWRQBJ\UZUUXMYX")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R83" ("R83"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\IVPCRBTN\LWFHDHIF" ("\IVPCRBTN\LWFHDHIF")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R84" ("R84"); Footprint = "SMD_RES_2512(6432)_N"; UniqueID = "\IVPCRBTN\WKCVETMD" ("\IVPCRBTN\WKCVETMD")
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R43-1
+Added Pin To Net: NetName=NetD7_A Pin=R43-2
+Added Pin To Net: NetName=3V3 Pin=R83-1
+Added Pin To Net: NetName=NetD22_A Pin=R83-2
+Added Pin To Net: NetName=GPIO2 Pin=U11-17
+Added Pin To Net: NetName=GPIO5 Pin=U11-20
+Added Pin To Net: NetName=GPIO4 Pin=U11-25
+Added Pin To Net: NetName=GPIO3 Pin=U11-29

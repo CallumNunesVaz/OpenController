@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GPIO27 Pin=R70-2
+Added Net: Name=GPIO27
+Added Member To Class: ClassName=GPIO[2..27] Member=Element[25]: GPIO

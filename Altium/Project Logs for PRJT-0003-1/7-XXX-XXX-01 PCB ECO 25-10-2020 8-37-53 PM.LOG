@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=P\C\I\E\_\C\L\K\_\N\ Pin=J2-78
+Removed Pin From Net: NetName=P\C\I\E\_\C\L\K\_\N\ Pin=J2-80
+Removed Pin From Net: NetName=P\C\I\E\_\C\L\K\_\N\ Pin=J2-84
+Removed Pin From Net: NetName=P\C\I\E\_\C\L\K\_\N\ Pin=J2-86
+Removed Pin From Net: NetName=P\C\I\E\_\C\L\K\_\N\ Pin=J2-92
+Removed Pin From Net: NetName=P\C\I\E\_\C\L\K\_\N\ Pin=J2-100
+Added Pin To Net: NetName=P\C\I\E\_\C\L\K\_\P\ Pin=J2-92
+Added Net: Name=P\C\I\E\_\C\L\K\_\P\
+Added Pin To Net: NetName=P\C\I\E\_\C\L\K\_\R\E\Q\ Pin=J2-100
+Added Net: Name=P\C\I\E\_\C\L\K\_\R\E\Q\
+Added Pin To Net: NetName=P\C\I\E\_\R\X\_\N\ Pin=J2-86
+Added Net: Name=P\C\I\E\_\R\X\_\N\
+Added Pin To Net: NetName=P\C\I\E\_\R\X\_\P\ Pin=J2-84
+Added Net: Name=P\C\I\E\_\R\X\_\P\
+Added Pin To Net: NetName=P\C\I\E\_\T\X\_\N\ Pin=J2-78
+Added Net: Name=P\C\I\E\_\T\X\_\N\
+Added Pin To Net: NetName=P\C\I\E\_\T\X\_\P\ Pin=J2-80
+Added Net: Name=P\C\I\E\_\T\X\_\P\
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\C\L\K\_\P\
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\R\X\_\N\
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\R\X\_\P\
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\T\X\_\N\
+Added Member To Class: ClassName=90R_PAIRS Member=Wire P\C\I\E\_\T\X\_\P\
+Added Class: Name=90R_DIFF_PAIRS
