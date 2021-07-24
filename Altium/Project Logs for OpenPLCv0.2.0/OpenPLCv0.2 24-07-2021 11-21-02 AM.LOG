@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GPIO2 Pin=J22-1
+Removed Pin From Net: NetName=GPIO3 Pin=J22-2
+Removed Pin From Net: NetName=GPIO12 Pin=J23-1
+Removed Pin From Net: NetName=GPIO13 Pin=J23-2
+Removed Pin From Net: NetName=GPIO18 Pin=J24-1
+Removed Pin From Net: NetName=GPIO17 Pin=J24-2
+Removed Pin From Net: NetName=GPIO16 Pin=J24-3
+Removed Pin From Net: NetName=GPIO20 Pin=J36-1
+Removed Pin From Net: NetName=GPIO19 Pin=J36-2
+Removed Pin From Net: NetName=GPIO21 Pin=J36-3
+Removed Pin From Net: NetName=GPIO2 Pin=J37-1
+Removed Pin From Net: NetName=GPIO3 Pin=J37-2
+Removed Pin From Net: NetName=GPIO12 Pin=J38-1
+Removed Pin From Net: NetName=GPIO13 Pin=J38-2
+Removed Pin From Net: NetName=GPIO20 Pin=J39-1
+Removed Pin From Net: NetName=GPIO19 Pin=J39-2
+Removed Pin From Net: NetName=GPIO21 Pin=J39-3
+Removed Pin From Net: NetName=EXP_GPIO6 Pin=J40-1
+Removed Pin From Net: NetName=EXP_GPIO7 Pin=J40-2
+Removed Pin From Net: NetName=EXP_GPIO8 Pin=J40-3
+Removed Member From Class: ClassName=EXP Member=J39
+Removed Member From Class: ClassName=EXP Member=J40
+Change Component Footprint: Designator=J22 Old Footprint=796638-2 New Footprint=WJ124-3.81-5P
+Change Component Footprint: Designator=J23 Old Footprint=796638-2 New Footprint=WJ124-3.81-5P
+Change Component Footprint: Designator=J37 Old Footprint=796638-2 New Footprint=WJ124-3.81-5P
+Change Component Footprint: Designator=J38 Old Footprint=796638-2 New Footprint=WJ124-3.81-5P
+Change Component Footprint: Designator=J24 Old Footprint=796638-3 New Footprint=WJ124-3.81-5P
+Change Component Footprint: Designator=J36 Old Footprint=796638-3 New Footprint=WJ124-3.81-5P
+Change Component Comment : Designator=J22 Old Comment=WJ2EDGRC-5.08-2P New Comment=WJ124-3.81-5P
+Change Component Comment : Designator=J23 Old Comment=WJ2EDGRC-5.08-2P New Comment=WJ124-3.81-5P
+Change Component Comment : Designator=J37 Old Comment=WJ2EDGRC-5.08-2P New Comment=WJ124-3.81-5P
+Change Component Comment : Designator=J38 Old Comment=WJ2EDGRC-5.08-2P New Comment=WJ124-3.81-5P
+Change Component Comment : Designator=J24 Old Comment=WJ2EDGRC-5.08-3P New Comment=WJ124-3.81-5P
+Change Component Comment : Designator=J36 Old Comment=WJ2EDGRC-5.08-3P New Comment=WJ124-3.81-5P
+Added Component: Designator=D26_1(SOD-123FL)
+Added Component: Designator=D27_1(SOD-123FL)
+Added Pin To Net: NetName=GND Pin=D26_1-1
+Added Pin To Net: NetName=USB.DATA_1_P Pin=D26_1-2
+Added Pin To Net: NetName=GND Pin=D27_1-1
+Added Pin To Net: NetName=USB.DATA_1_N Pin=D27_1-2
+Added Pin To Net: NetName=3V3 Pin=J22-1
+Added Pin To Net: NetName=GPIO2 Pin=J22-2
+Added Pin To Net: NetName=GPIO3 Pin=J22-3
+Added Pin To Net: NetName=GND Pin=J22-4
+Added Pin To Net: NetName=GPIO12 Pin=J22-5
+Added Pin To Net: NetName=GPIO13 Pin=J23-1
+Added Pin To Net: NetName=3V3 Pin=J23-2
+Added Pin To Net: NetName=GPIO20 Pin=J23-3
+Added Pin To Net: NetName=GPIO19 Pin=J23-4
+Added Pin To Net: NetName=GPIO21 Pin=J23-5
+Added Pin To Net: NetName=GND Pin=J24-1
+Added Pin To Net: NetName=GPIO18 Pin=J24-2
+Added Pin To Net: NetName=GPIO17 Pin=J24-3
+Added Pin To Net: NetName=GPIO16 Pin=J24-4
+Added Pin To Net: NetName=GND Pin=J24-5
+Added Pin To Net: NetName=3V3 Pin=J36-1
+Added Pin To Net: NetName=GPIO2 Pin=J36-2
+Added Pin To Net: NetName=GPIO3 Pin=J36-3
+Added Pin To Net: NetName=GND Pin=J36-4
+Added Pin To Net: NetName=3V3 Pin=J36-5
+Added Pin To Net: NetName=GPIO12 Pin=J37-1
+Added Pin To Net: NetName=GPIO13 Pin=J37-2
+Added Pin To Net: NetName=GND Pin=J37-3
+Added Pin To Net: NetName=GPIO20 Pin=J37-4
+Added Pin To Net: NetName=GPIO19 Pin=J37-5
+Added Pin To Net: NetName=GPIO21 Pin=J38-1
+Added Pin To Net: NetName=GND Pin=J38-2
+Added Pin To Net: NetName=EXP_GPIO6 Pin=J38-3
+Added Pin To Net: NetName=EXP_GPIO7 Pin=J38-4
+Added Pin To Net: NetName=EXP_GPIO8 Pin=J38-5
+Added Member To Class: ClassName=USB_DFP_PI Member=Component D26_1 (D26) SMF3.3A
+Added Member To Class: ClassName=USB_DFP_PI Member=Component D27_1 (D27) SMF3.3A
+Change Room Name: Old Name=USB_UFP_1 New Name=USB_UFP
+Added Room: Name=SERIAL
+Added Room: Name=USB_DFP_PI
+Added Room: Name=USBMUX1
+Added Room: Name=USBMUX2

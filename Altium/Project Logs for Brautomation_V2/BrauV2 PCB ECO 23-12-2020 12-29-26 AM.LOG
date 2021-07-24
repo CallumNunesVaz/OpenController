@@ -1,8 +1,0 @@
-Added Component: Designator=J3(796638-2)
-Added Component: Designator=J4(796638-2)
-Added Pin To Net: NetName=AOUT1_PTC Pin=J3-1
-Added Pin To Net: NetName=GND Pin=J3-2
-Added Pin To Net: NetName=AOUT1_PTC Pin=J4-1
-Added Pin To Net: NetName=GND Pin=J4-2
-Added Member To Class: ClassName=AnalogueOut Member=Component J3 WJ2EDGRC-5.08-2P
-Added Member To Class: ClassName=AnalogueOut Member=Component J4 WJ2EDGRC-5.08-2P
