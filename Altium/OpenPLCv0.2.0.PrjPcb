@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$ChannelIndex
@@ -1053,20 +1053,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Parameter2]
-Name=ProjectDate
-Value=XX/XX/XXXX
-
-[Parameter3]
 Name=ProjectRevision
 Value=0.2
 
+[Parameter3]
+Name=ProjectDate
+Value=XX/XX/XXXX
+
 [Parameter4]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Configuration1]
 Name=Sources
