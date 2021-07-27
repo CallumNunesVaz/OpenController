@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:43:07 PM On 27/07/2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [STD] of BOM Document [OpenPLCv0.2.0.BomDoc]
+   Generated File[Bill of Materials-OpenPLCv0.2.0.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:43:08 PM On 27/07/2021
