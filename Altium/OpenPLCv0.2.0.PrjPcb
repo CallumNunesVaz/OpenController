@@ -1058,20 +1058,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Parameter2]
-Name=ProjectDate
-Value=XX/XX/XXXX
-
-[Parameter3]
 Name=ProjectRevision
 Value=0.2
 
+[Parameter3]
+Name=ProjectDate
+Value=XX/XX/XXXX
+
 [Parameter4]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Configuration1]
 Name=Sources
@@ -1704,9 +1704,9 @@ Type30=1
 Type31=1
 Type32=1
 Type33=1
-Type34=1
+Type34=0
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
