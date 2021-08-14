@@ -34,12 +34,17 @@ IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
+VaultGUID=7B591B99-967C-4ADD-896B-C8EB9FDFE7B3
+ReleaseVaultName=DefendTex
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=D814680C-BF6A-48BF-A460-F1E8172B4765&ItemGUID=50FE3F46-94DC-4D27-9DA7-AB1BA2AE4A35&RevisionGUID=6BA910E8-D873-4A71-AE70-C71AC0BF25C6&"MainFilename=PRJT-0003-1.PrjPCB"
 IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=3
 
 [Document1]
 DocumentPath=OpenPLCv0.2.0_TopLevel.SchDoc
@@ -1053,30 +1058,66 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Parameter2]
-Name=ProjectRevision
-Value=0.2
-
-[Parameter3]
 Name=ProjectDate
 Value=XX/XX/XXXX
 
+[Parameter3]
+Name=ProjectRevision
+Value=0.2
+
 [Parameter4]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Configuration1]
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
-ReleaseItemId=
+ReleaseItemId=EAD7945F-9D01-403F-BCBF-662A6444294E
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=8D251382-1AAA-49CE-B4E7-145143974ABF
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=OpenPLCv0.2.0_Fabrication.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly Basic
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=4B68AC05-B881-404C-AC8F-EB1FF995E781
+Variant=Basic
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=OpenPLCv0.2.0_Assembly.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=0D769D9F-8126-4AAC-8CBC-274545A0F1DA
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=OpenPLCv0.2.0_Assembly.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [OutputGroup1]
 Name=Netlist Outputs

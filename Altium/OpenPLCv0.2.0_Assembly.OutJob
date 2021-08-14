@@ -15,12 +15,12 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=OpenPLCv0.2.0_Assembly.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=STD
-VariantScope=1
-CurrentConfigurationName=
+VariantName=Basic
+VariantScope=2
+CurrentConfigurationName=Assembly Basic
 TargetPrinter=HPB399DA (HP ENVY 6000 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
@@ -87,7 +87,7 @@ Configuration3_Item9=Item ID=195|Designator=182|Description=186|Quantity=157|Lay
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for OpenPLCv0.2.0
+OutputBasePath2=
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -114,9 +114,9 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Callum\Documents\OpenController\Altium\Project Outputs for OpenPLCv0.2.0\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for OpenPLCv0.2.0
-OutputPathMedia3=
-OutputPathMediaValue3=
+OutputBasePath3=
+OutputPathMedia3=Assembly Data
+OutputPathMediaValue3=Assembly Data
 OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
