@@ -1,0 +1,664 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Callum\Documents\OpenController\Altium\OpenPLCv0.2.0.PcbDoc
+Date     : 15/08/2021
+Time     : 2:40:59 AM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=0.762mm) (Disabled)(InNetClass('90R_PAIRS') and (not WithinRoom('USBBConnector_1')) and (not WithinRoom('USBBConnector_2')) and (not WithinRoom('USBAConnector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2'))),((not WithinRoom('USBBConnector_1')) and (not WithinRoom('USBBConnector_2')) and (not WithinRoom('USBAConnector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.762mm) (InNetClass('100R_PAIRS') and (not WithinRoom('RJ45Connector')) and (not WithinRoom('HDMIConnector'))  and (not WithinRoom('FFCConnector')) and (not WithinRoom('CM4Connector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2'))),((not WithinRoom('RJ45Connector')) and (not WithinRoom('HDMIConnector'))  and (not WithinRoom('FFCConnector')) and (not WithinRoom('CM4Connector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.762mm) (Disabled)(InNetClass('100R_PAIRS') and (not WithinRoom('RJ45Connector')) and (not WithinRoom('HDMIConnector'))  and (not WithinRoom('FFCConnector')) and (not WithinRoom('CM4Connector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2'))),((not WithinRoom('RJ45Connector')) and (not WithinRoom('HDMIConnector'))  and (not WithinRoom('FFCConnector')) and (not WithinRoom('CM4Connector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (Disabled)(InNetClass('50R_SINGEND') and (not WithinRoom('SDIOConnector_1')) and (not WithinRoom('SDIOConnector_2'))),((not WithinRoom('SDIOConnector_1')) and (not WithinRoom('SDIOConnector_2')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.762mm) (Disabled)(InNetClass('90R_PAIRS') and (not WithinRoom('USBBConnector_1')) and (not WithinRoom('USBBConnector_2')) and (not WithinRoom('USBAConnector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2'))),((not WithinRoom('USBBConnector_1')) and (not WithinRoom('USBBConnector_2')) and (not WithinRoom('USBAConnector')) and (not WithinRoom('DF40Connector_1')) and (not WithinRoom('DF40Connector_2')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C10-1(41.18mm,39mm) on Top Copper And Pad C9-1(42.52mm,39mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net X2 Between Pad C10-2(40.22mm,39mm) on Top Copper And Pad X1-2(40.55mm,37mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C51-1(161.82mm,91.4mm) on Top Copper And Pad C13-1(161.82mm,92.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-1(152.78mm,38.8mm) on Top Copper And Pad C16-1(152.78mm,40mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net FB_5V Between Pad C17-1(17.2mm,68.52mm) on Top Copper And Pad R54-1(18.5mm,68.52mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC18_1 Between Pad U8-4(15mm,64.4mm) on Top Copper And Pad C18-1(15.3mm,67.7mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C24-2(11.3mm,69.4mm) on Top Copper And Pad C18-2(15.3mm,69.3mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C18-2(15.3mm,69.3mm) on Top Copper And Track (24.75mm,73.95mm)(35.35mm,73.95mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-1(106.82mm,64.4mm) on Top Copper And Pad C36-1(106.84mm,63mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C24-2(11.3mm,69.4mm) on Top Copper And Pad C23-2(12.65mm,71.8mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C25-2(10.48mm,67.6mm) on Top Copper And Pad C24-2(11.3mm,69.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C25-2(10.48mm,67.6mm) on Top Copper And Pad U8-5(13.3mm,64.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C27-1(19mm,89.65mm) on Top Copper And Pad C33-2(27mm,87.15mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C27-1(19mm,89.65mm) on Top Copper And Pad D9-2(23.7mm,95.65mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad C27-1(19mm,89.65mm) on Top Copper And Track (19mm,78.65mm)(20.05mm,78.65mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SW_24V Between Via (48.6mm,85.5mm) from Top Copper to Bottom Copper And Pad C32-1(51.6mm,80.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 24V_PD Between Pad C32-2(51.6mm,74.3mm) on Top Copper And Pad D12-1(59.6mm,73.9mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 24V_PD Between Track (44.05mm,73.95mm)(45.15mm,73.95mm) on Top Copper And Pad C32-2(51.6mm,74.3mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C43-1(109.37mm,58.63mm) on Top Copper And Pad C45-1(109.37mm,59.83mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWR_1 Between Pad C53_1-2(164.3mm,57.9mm) on Top Copper And Pad J33_1-1(167.55mm,60.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWR_2 Between Pad J33_2-1(161.3mm,107.45mm) on Top Copper And Pad C53_2-2(161.3mm,104.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C60_1-2(57mm,31.42mm) on Top Copper And Via (57.8mm,31.9mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C60_2-2(82.7mm,31.42mm) on Top Copper And Via (83.5mm,31.9mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (68.182mm,32.282mm) from Top Copper to Bottom Copper And Pad C62_1-2(69.88mm,32.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (93.882mm,32.282mm) from Top Copper to Bottom Copper And Pad C62_2-2(95.58mm,32.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net X1 Between Pad X1-1(43.05mm,37mm) on Top Copper And Pad C9-2(43.48mm,39mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SW_5V Between Via (19.7mm,57.4mm) from Top Copper to Bottom Copper And Pad D10-2(26.2mm,59.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN_TERM Between Pad D11-1(10.7mm,98.9mm) on Top Copper And Pad J13-1(11.92mm,105mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VIN Between Pad D11-2(17.3mm,98.9mm) on Top Copper And Pad D9-2(23.7mm,95.65mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_1_2 Between Pad D16_1-2(53.143mm,90.411mm) on Top Copper And Via (53.233mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_2_2 Between Pad D16_2-2(65.892mm,90.411mm) on Top Copper And Via (65.982mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_3_2 Between Pad D16_3-2(78.641mm,90.411mm) on Top Copper And Via (78.731mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_4_2 Between Pad D16_4-2(91.39mm,90.411mm) on Top Copper And Via (91.48mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_5_2 Between Pad D16_5-2(104.139mm,90.411mm) on Top Copper And Via (104.229mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_6_2 Between Pad D16_6-2(116.888mm,90.411mm) on Top Copper And Via (116.978mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_7_2 Between Pad D16_7-2(129.637mm,90.411mm) on Top Copper And Via (129.727mm,92.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD17_A Between Pad R56-1(15.62mm,18.2mm) on Top Copper And Pad D17-A(16.37mm,14.8mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD18_A Between Pad D18-A(28.97mm,14.8mm) on Multi-Layer And Pad R59-1(29.18mm,18.3mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_1_A Between Pad D20_1-A(59.112mm,100.4mm) on Multi-Layer And Pad R66_1-1(62.005mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_2_A Between Pad D20_2-A(71.861mm,100.4mm) on Multi-Layer And Pad R66_2-1(74.754mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_3_A Between Pad D20_3-A(84.61mm,100.4mm) on Multi-Layer And Pad R66_3-1(87.503mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_4_A Between Pad D20_4-A(97.359mm,100.4mm) on Multi-Layer And Pad R66_4-1(100.252mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_5_A Between Pad D20_5-A(110.108mm,100.4mm) on Multi-Layer And Pad R66_5-1(113.001mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_6_A Between Pad D20_6-A(122.857mm,100.4mm) on Multi-Layer And Pad R66_6-1(125.75mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD20_7_A Between Pad D20_7-A(135.606mm,100.4mm) on Multi-Layer And Pad R66_7-1(138.499mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_1_A Between Pad D23_1-A(59.86mm,14.727mm) on Multi-Layer And Pad R86_1-1(60.08mm,17.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_1_K Between Pad Q7_1-3(53.99mm,13.377mm) on Top Copper And Pad D23_1-K(57.32mm,14.727mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_2_A Between Pad D23_2-A(72.65mm,14.727mm) on Multi-Layer And Pad R86_2-1(72.87mm,17.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_2_K Between Pad Q7_2-3(66.78mm,13.377mm) on Top Copper And Pad D23_2-K(70.11mm,14.727mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_5_A Between Pad D23_5-A(110.86mm,14.8mm) on Multi-Layer And Pad R86_5-1(112.58mm,16.43mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_5_K Between Pad Q7_5-3(105.29mm,13.477mm) on Top Copper And Pad D23_5-K(108.32mm,14.8mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_6_A Between Pad D23_6-A(123.33mm,14.8mm) on Multi-Layer And Pad R86_6-1(125.05mm,16.43mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_6_K Between Pad Q7_6-3(117.76mm,13.477mm) on Top Copper And Pad D23_6-K(120.79mm,14.8mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_7_A Between Pad D23_7-A(135.88mm,14.877mm) on Multi-Layer And Pad R86_7-1(137.6mm,16.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_7_K Between Pad Q7_7-3(130.31mm,13.527mm) on Top Copper And Pad D23_7-K(133.34mm,14.877mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_8_A Between Pad D23_8-A(148.48mm,14.877mm) on Multi-Layer And Pad R86_8-1(150.2mm,16.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD23_8_K Between Pad Q7_8-3(142.91mm,13.527mm) on Top Copper And Pad D23_8-K(145.94mm,14.877mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net R\E\S\E\T\ Between Pad D25-3(132.047mm,57.1mm) on Top Copper And Pad D24-3(138.297mm,54.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net R\E\S\E\T\ Between Pad J2-92(137.1mm,47.5mm) on Top Copper And Pad D24-3(138.297mm,54.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net R\E\S\E\T\ Between Pad U11-7(112.825mm,61.08mm) on Top Copper And Pad D25-3(132.047mm,57.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD28_A Between Pad R76-1(39.5mm,100.98mm) on Top Copper And Pad D28-A(41.53mm,100.5mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD28_K Between Pad Q5-3(42.25mm,96.5mm) on Top Copper And Pad D28-K(44.07mm,100.5mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_2 Between Pad F3-1(112.224mm,22.082mm) on Top Copper And Pad D3-2(114.424mm,22.432mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD4_2 Between Pad F4-1(124.624mm,22.082mm) on Top Copper And Pad D4-2(126.824mm,22.432mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD5_2 Between Pad F5-1(137.224mm,22.082mm) on Top Copper And Pad D5-2(139.424mm,22.432mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD6_2 Between Pad F6-1(149.824mm,22.082mm) on Top Copper And Pad D6-2(152.024mm,22.432mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VIN_JACK Between Pad J12-4(28mm,101.9mm) on Multi-Layer And Pad D9-1(30.3mm,95.65mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD3_2 Between Pad U5-3(107.65mm,34mm) on Top Copper And Pad F3-1(112.224mm,22.082mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_1 Between Pad J5-1(112.024mm,10mm) on Multi-Layer And Pad F3-2(112.224mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_1 Between Pad R25-2(110.074mm,20.332mm) on Top Copper And Pad F3-2(112.224mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD4_2 Between Pad U5-5(106.35mm,34mm) on Top Copper And Pad F4-1(124.624mm,22.082mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_2 Between Pad J27-1(124.604mm,10mm) on Multi-Layer And Pad F4-2(124.624mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_2 Between Pad R29-2(122.574mm,20.332mm) on Top Copper And Pad F4-2(124.624mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD5_2 Between Pad U5-12(107.65mm,28.2mm) on Top Copper And Pad F5-1(137.224mm,22.082mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_3 Between Pad J28-1(137.204mm,10mm) on Multi-Layer And Pad F5-2(137.224mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_3 Between Pad R33-2(135.124mm,20.332mm) on Top Copper And Pad F5-2(137.224mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD6_2 Between Pad U5-10(106.35mm,28.2mm) on Top Copper And Pad F6-1(149.824mm,22.082mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_4 Between Pad J29-1(149.804mm,10mm) on Multi-Layer And Pad F6-2(149.824mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net IN_4 Between Pad R37-2(147.774mm,20.332mm) on Top Copper And Pad F6-2(149.824mm,19.182mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_1_2 Between Pad F9_1-1(53.143mm,98.945mm) on Top Copper And Via (53.233mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_1_2 Between Pad F9_1-2(53.143mm,101.845mm) on Top Copper And Pad J16_1-1(55.302mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_2_2 Between Pad F9_2-1(65.892mm,98.945mm) on Top Copper And Via (65.982mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_2_2 Between Pad F9_2-2(65.892mm,101.845mm) on Top Copper And Pad J16_2-1(68.051mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_3_2 Between Pad F9_3-1(78.641mm,98.945mm) on Top Copper And Via (78.731mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_3_2 Between Pad F9_3-2(78.641mm,101.845mm) on Top Copper And Pad J16_3-1(80.8mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_4_2 Between Pad F9_4-1(91.39mm,98.945mm) on Top Copper And Via (91.48mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_4_2 Between Pad F9_4-2(91.39mm,101.845mm) on Top Copper And Pad J16_4-1(93.549mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_5_2 Between Pad F9_5-1(104.139mm,98.945mm) on Top Copper And Via (104.229mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_5_2 Between Pad F9_5-2(104.139mm,101.845mm) on Top Copper And Pad J16_5-1(106.298mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_6_2 Between Pad F9_6-1(116.888mm,98.945mm) on Top Copper And Via (116.978mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_6_2 Between Pad F9_6-2(116.888mm,101.845mm) on Top Copper And Pad J16_6-1(119.047mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_7_2 Between Pad F9_7-1(129.637mm,98.945mm) on Top Copper And Via (129.727mm,96.813mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetF9_7_2 Between Pad F9_7-2(129.637mm,101.845mm) on Top Copper And Pad J16_7-1(131.796mm,104.967mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net USB_OTG.ID Between Pad R79-2(117.7mm,76.38mm) on Top Copper And Pad J1-1(119.1mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.SCL Between Pad J1-100(138.7mm,81.5mm) on Top Copper And Pad J8-15(165.5mm,94.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MUX_SEL_1 Between Pad J2-93(137.5mm,44.42mm) on Top Copper And Pad J11-2(155.1mm,4.15mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-13(121.5mm,78.42mm) on Top Copper And Pad J1-19(122.7mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-7(120.3mm,78.42mm) on Top Copper And Pad J1-13(121.5mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-14(121.5mm,81.5mm) on Top Copper And Pad J1-20(122.7mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-8(120.3mm,81.5mm) on Top Copper And Pad J1-14(121.5mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-19(122.7mm,78.42mm) on Top Copper And Pad J1-25(123.9mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-20(122.7mm,81.5mm) on Top Copper And Pad J1-26(123.9mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-25(123.9mm,78.42mm) on Top Copper And Pad J1-31(125.1mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-26(123.9mm,81.5mm) on Top Copper And Pad J1-32(125.1mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net USB_COM_D_1_N Between Pad J1-3(119.5mm,78.42mm) on Top Copper And Pad U13_1-4(155mm,69.775mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-31(125.1mm,78.42mm) on Top Copper And Pad J1-37(126.3mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-32(125.1mm,81.5mm) on Top Copper And Pad J1-38(126.3mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-38(126.3mm,81.5mm) on Top Copper And Pad J1-44(127.5mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-44(127.5mm,81.5mm) on Top Copper And Pad J1-50(128.7mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net USB_COM_D_1_P Between Pad J1-5(119.9mm,78.42mm) on Top Copper And Pad U13_1-3(155.5mm,69.775mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-50(128.7mm,81.5mm) on Top Copper And Pad J1-56(129.9mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.CEC Between Pad J1-51(129.1mm,78.42mm) on Top Copper And Pad J8-13(165.5mm,95.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.HPD Between Pad J1-53(129.5mm,78.42mm) on Top Copper And Pad J8-19(165.5mm,92.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-55(129.9mm,78.42mm) on Top Copper And Pad J1-61(131.1mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-56(129.9mm,81.5mm) on Top Copper And Pad J1-62(131.1mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-61(131.1mm,78.42mm) on Top Copper And Pad J1-67(132.3mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-62(131.1mm,81.5mm) on Top Copper And Pad J1-68(132.3mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-67(132.3mm,78.42mm) on Top Copper And Pad J1-73(133.5mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-68(132.3mm,81.5mm) on Top Copper And Pad J1-74(133.5mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-73(133.5mm,78.42mm) on Top Copper And Pad J1-79(134.7mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-74(133.5mm,81.5mm) on Top Copper And Pad J1-80(134.7mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.D1_P Between Pad J1-76(133.9mm,81.5mm) on Top Copper And Track (156.873mm,92.8mm)(156.873mm,96.835mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.D1_N Between Pad J1-78(134.3mm,81.5mm) on Top Copper And Track (157.2mm,92.8mm)(157.2mm,96.7mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-79(134.7mm,78.42mm) on Top Copper And Pad J1-85(135.9mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-80(134.7mm,81.5mm) on Top Copper And Pad J1-86(135.9mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.D0_P Between Pad J1-82(135.1mm,81.5mm) on Top Copper And Pad J8-7(165.5mm,98.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.D0_N Between Pad J1-84(135.5mm,81.5mm) on Top Copper And Pad J8-9(165.5mm,97.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-85(135.9mm,78.42mm) on Top Copper And Pad J1-91(137.1mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-86(135.9mm,81.5mm) on Top Copper And Pad J1-92(137.1mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.CLK_P Between Pad J1-88(136.3mm,81.5mm) on Top Copper And Pad J8-10(165.5mm,96.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.CLK_N Between Pad J1-90(136.7mm,81.5mm) on Top Copper And Pad J8-12(165.5mm,95.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-91(137.1mm,78.42mm) on Top Copper And Pad J1-97(138.3mm,78.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-92(137.1mm,81.5mm) on Top Copper And Pad J1-98(138.3mm,81.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net DSI0.D2_N Between Pad J1-93(137.5mm,78.42mm) on Top Copper And Pad J7-11(170mm,78.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net DSI0.D3_N Between Pad J1-94(137.5mm,81.5mm) on Top Copper And Pad J7-14(170mm,76.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net DSI0.D2_P Between Pad J1-95(137.9mm,78.42mm) on Top Copper And Pad J7-12(170mm,77.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net DSI0.D3_P Between Pad J1-96(137.9mm,81.5mm) on Top Copper And Pad J7-15(170mm,76.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net HDMI0.SDA Between Pad J1-99(138.7mm,78.42mm) on Top Copper And Pad J8-16(165.5mm,93.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-1(119.1mm,44.42mm) on Top Copper And Pad J2-7(120.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-7(120.3mm,44.42mm) on Top Copper And Pad J2-13(121.5mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-14(121.5mm,47.5mm) on Top Copper And Pad J2-22(123.1mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-8(120.3mm,47.5mm) on Top Copper And Pad J2-14(121.5mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-2(119.1mm,47.5mm) on Top Copper And Pad J2-8(120.3mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO2 Between Pad J22-2(3.8mm,91.87mm) on Multi-Layer And Pad U6-5(38.53mm,28.7mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO3 Between Pad J22-3(3.8mm,95.68mm) on Multi-Layer And Pad U6-6(39.8mm,28.7mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO26 Between Pad J2-24(123.5mm,47.5mm) on Top Copper And Track (158.269mm,20.311mm)(158.589mm,20.311mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO12 Between Pad J22-4(3.8mm,99.49mm) on Multi-Layer And Pad J2-31(125.1mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO21 Between Pad J23-4(3.8mm,80.45mm) on Multi-Layer And Pad J2-25(123.9mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO13 Between Pad J22-5(3.8mm,103.3mm) on Multi-Layer And Pad J2-28(124.3mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO19 Between Pad J23-3(3.8mm,76.64mm) on Multi-Layer And Pad J2-26(123.9mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO20 Between Pad J23-2(3.8mm,72.83mm) on Multi-Layer And Pad J2-27(124.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO16 Between Pad J24-2(3.8mm,34.75mm) on Multi-Layer And Pad J2-29(124.7mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO6 Between Pad R70-2(79.6mm,62.88mm) on Top Copper And Pad J2-30(124.7mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO5 Between Track (123.54mm,61.58mm)(123.62mm,61.5mm) on Top Copper And Pad J2-34(125.5mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO18 Between Pad J23-5(3.8mm,84.26mm) on Multi-Layer And Pad J2-49(128.7mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO7 Between Pad R58-2(95.88mm,52.6mm) on Top Copper And Pad J2-37(126.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO11 Between Via (47mm,98mm) from Top Copper to Bottom Copper And Pad J2-38(126.3mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO8 Between Via (50mm,98mm) from Top Copper to Bottom Copper And Pad J2-39(126.7mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO9 Between Via (36mm,98mm) from Top Copper to Bottom Copper And Pad J2-40(126.7mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO25 Between Pad J2-41(127.1mm,44.42mm) on Top Copper And Track (158.08mm,11.725mm)(158.301mm,11.946mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO17 Between Pad J24-1(3.8mm,30.94mm) on Multi-Layer And Pad J2-50(128.7mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO6 Between Pad J24-3(3.8mm,38.56mm) on Multi-Layer And Pad U15-10(53.25mm,54.65mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO10 Between Pad R64-2(93.58mm,52.6mm) on Top Copper And Pad J2-44(127.5mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO7 Between Pad J24-4(3.8mm,42.37mm) on Multi-Layer And Pad U15-11(53.25mm,54mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO24 Between Pad J2-45(127.9mm,44.42mm) on Top Copper And Track (158.301mm,13.176mm)(158.376mm,13.25mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO22 Between Pad J2-46(127.9mm,47.5mm) on Top Copper And Track (158.08mm,14.125mm)(159.151mm,15.196mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO23 Between Pad J2-47(128.3mm,44.42mm) on Top Copper And Pad R95_2-1(158.06mm,18.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO27 Between Pad J2-48(128.3mm,47.5mm) on Top Copper And Track (158.249mm,19.111mm)(158.589mm,19.111mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO15 Between Pad J2-51(129.1mm,44.42mm) on Top Copper And Via (148mm,60.4mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-52(129.1mm,47.5mm) on Top Copper And Pad J2-60(130.7mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-53(129.5mm,44.42mm) on Top Copper And Pad J2-59(130.7mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO4 Between Track (123.62mm,60.3mm)(123.62mm,60.325mm) on Top Copper And Pad J2-54(129.5mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO14 Between Pad J2-55(129.9mm,44.42mm) on Top Copper And Via (148mm,63.4mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO3 Between Pad U6-6(39.8mm,28.7mm) on Top Copper And Pad J2-56(129.9mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SD_CLK Between Pad J34_1-5(117.9mm,29.6mm) on Top Copper And Pad J2-57(130.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO2 Between Pad U6-5(38.53mm,28.7mm) on Top Copper And Pad J2-58(130.3mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-59(130.7mm,44.42mm) on Top Copper And Pad J2-65(131.9mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-60(130.7mm,47.5mm) on Top Copper And Pad J2-66(131.9mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SD_DAT3 Between Pad J34_1-2(117.9mm,32.9mm) on Top Copper And Pad J2-61(131.1mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SD_CMD Between Track (115.864mm,31.754mm)(117.854mm,31.754mm) on Top Copper And Pad J2-62(131.1mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SD_DAT0 Between Pad J34_1-7(117.9mm,27.4mm) on Top Copper And Pad J2-63(131.5mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-65(131.9mm,44.42mm) on Top Copper And Pad J2-71(133.1mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-66(131.9mm,47.5mm) on Top Copper And Pad J2-74(133.5mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SD_DAT1 Between Pad J34_1-8(117.9mm,26.3mm) on Top Copper And Pad J2-67(132.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SD_DAT2 Between Track (115.884mm,34.046mm)(117.854mm,34.046mm) on Top Copper And Pad J2-69(132.7mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 5V_CM Between Pad J2-77(134.3mm,44.42mm) on Top Copper And Pad J2-79(134.7mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO_VREF Between Pad J2-78(134.3mm,47.5mm) on Top Copper And Pad J2-84(135.5mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 5V_CM Between Pad J2-79(134.7mm,44.42mm) on Top Copper And Pad J2-81(135.1mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C0.SCL Between Pad J2-80(134.7mm,47.5mm) on Top Copper And Pad R116-1(165.6mm,72.18mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 5V_CM Between Pad J2-81(135.1mm,44.42mm) on Top Copper And Pad J2-83(135.5mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C0.SDA Between Pad J2-82(135.1mm,47.5mm) on Top Copper And Pad R117-1(166.8mm,72.18mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 5V_CM Between Pad J2-83(135.5mm,44.42mm) on Top Copper And Pad J2-85(135.9mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO_VREF Between Pad J2-84(135.5mm,47.5mm) on Top Copper And Pad J2-86(135.9mm,47.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net 5V_CM Between Pad J2-85(135.9mm,44.42mm) on Top Copper And Pad J2-87(136.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MUX_SEL_1 Between Pad J2-93(137.5mm,44.42mm) on Top Copper And Track (156mm,69.775mm)(156mm,72.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net CAMERA_GPIO Between Pad R91-2(138.25mm,43mm) on Top Copper And Pad J2-97(138.3mm,44.42mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net USB.ID_1 Between Pad R108_1-2(164.2mm,64.62mm) on Top Copper And Pad J33_1-4(167.55mm,62.8mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_USB_MCU.DATA_N Between Pad U11-32(120.875mm,62.08mm) on Top Copper And Pad J33_2-2(160.5mm,107.45mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_USB_MCU.DATA_P Between Pad U11-33(120.875mm,62.58mm) on Top Copper And Pad J33_2-3(159.7mm,107.45mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_USB_MCU.ID Between Pad R108_2-2(158.48mm,104.5mm) on Top Copper And Pad J33_2-4(158.9mm,107.45mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO27 Between Track (158.589mm,19.111mm)(158.95mm,18.75mm) on Top Copper And Pad J34_2-2(160mm,18.75mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO24 Between Track (158.301mm,13.176mm)(158.376mm,13.25mm) on Top Copper And Pad J34_2-7(160mm,13.25mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO25 Between Track (158.326mm,11.946mm)(158.53mm,12.15mm) on Top Copper And Pad J34_2-8(160mm,12.15mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net RS485_A Between Pad J35-1(37.7mm,104.995mm) on Multi-Layer And Pad U16-6(49.635mm,100.9mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net RS485_B Between Pad J35-2(42.78mm,104.995mm) on Multi-Layer And Pad U16-7(48.365mm,100.9mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO8 Between Pad J36-1(3.8mm,49.98mm) on Multi-Layer And Pad U15-12(53.25mm,53.35mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MCU_SPI_MOSI Between Pad J36-2(3.8mm,53.79mm) on Multi-Layer And Pad U11-28(120.875mm,60.08mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MCU_SPI_MISO Between Pad J36-3(3.8mm,57.6mm) on Multi-Layer And Pad U11-27(120.875mm,59.58mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MCU_SPI_SCK Between Pad J36-4(3.8mm,61.41mm) on Multi-Layer And Pad U11-26(120.875mm,59.08mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MCU_UART_TX Between Pad J37-1(3.8mm,11.9mm) on Multi-Layer And Pad U11-12(112.825mm,58.58mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MCU_UART_RX Between Pad J37-2(3.8mm,15.71mm) on Multi-Layer And Pad U11-13(114.1mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SDA Between Pad J37-3(3.8mm,19.52mm) on Multi-Layer And Pad U7-5(46.695mm,13.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SCL Between Pad J37-4(3.8mm,23.33mm) on Multi-Layer And Pad U7-4(46.695mm,18.8mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VCOIN Between Pad J6-1(33.9mm,30.9mm) on Multi-Layer And Pad U6-3(39.8mm,34.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-4(170mm,81.6mm) on Top Copper And Pad J7-1(170mm,83.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-13(170mm,77.1mm) on Top Copper And Pad J7-10(170mm,78.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-10(170mm,78.6mm) on Top Copper And Pad J7-7(170mm,80.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-16(170mm,75.6mm) on Top Copper And Pad J7-13(170mm,77.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-19(170mm,74.1mm) on Top Copper And Pad J7-16(170mm,75.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C0.SCL Between Pad R116-1(165.6mm,72.18mm) on Top Copper And Pad J7-20(170mm,73.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C0.SDA Between Pad R117-1(166.8mm,72.18mm) on Top Copper And Pad J7-21(170mm,73.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-7(170mm,80.1mm) on Top Copper And Pad J7-4(170mm,81.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SW_5V Between Via (19.7mm,51.4mm) from Top Copper to Bottom Copper And Pad L1-1(24.45mm,50.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_1_1 Between Pad Q1_1-1(62.033mm,92.533mm) on Top Copper And Pad R65_1-1(63.303mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_1_1 Between Pad Q1_1-1(62.033mm,92.533mm) on Top Copper And Pad R67_1-2(63.303mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_2_1 Between Pad Q1_2-1(74.782mm,92.533mm) on Top Copper And Pad R65_2-1(76.052mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_2_1 Between Pad Q1_2-1(74.782mm,92.533mm) on Top Copper And Pad R67_2-2(76.052mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_3_1 Between Pad Q1_3-1(87.531mm,92.533mm) on Top Copper And Pad R65_3-1(88.801mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_3_1 Between Pad Q1_3-1(87.531mm,92.533mm) on Top Copper And Pad R67_3-2(88.801mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_4_1 Between Pad Q1_4-1(100.28mm,92.533mm) on Top Copper And Pad R65_4-1(101.55mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_4_1 Between Pad Q1_4-1(100.28mm,92.533mm) on Top Copper And Pad R67_4-2(101.55mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_5_1 Between Pad Q1_5-1(113.029mm,92.533mm) on Top Copper And Pad R65_5-1(114.299mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_5_1 Between Pad Q1_5-1(113.029mm,92.533mm) on Top Copper And Pad R67_5-2(114.299mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_6_1 Between Pad Q1_6-1(125.778mm,92.533mm) on Top Copper And Pad R65_6-1(127.048mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_6_1 Between Pad Q1_6-1(125.778mm,92.533mm) on Top Copper And Pad R67_6-2(127.048mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_7_1 Between Pad Q1_7-1(138.527mm,92.533mm) on Top Copper And Pad R65_7-1(139.797mm,94.327mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ1_7_1 Between Pad Q1_7-1(138.527mm,92.533mm) on Top Copper And Pad R67_7-2(139.797mm,90.433mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MUX_SEL_1 Between Pad Q10-1(113.25mm,77.45mm) on Top Copper And Via (156mm,72.4mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net USB_OTG.ID Between Pad Q10-3(115.75mm,76.5mm) on Top Copper And Pad R79-2(117.7mm,76.38mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_1_1 Between Pad R68_1-1(56.925mm,89.727mm) on Top Copper And Pad Q2_1-1(59.259mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_1_3 Between Pad Q2_1-3(61.759mm,88.838mm) on Top Copper And Pad R67_1-1(63.303mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_2_1 Between Pad R68_2-1(69.674mm,89.727mm) on Top Copper And Pad Q2_2-1(72.008mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_2_3 Between Pad Q2_2-3(74.508mm,88.838mm) on Top Copper And Pad R67_2-1(76.052mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_3_1 Between Pad R68_3-1(82.423mm,89.727mm) on Top Copper And Pad Q2_3-1(84.757mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_3_3 Between Pad Q2_3-3(87.257mm,88.838mm) on Top Copper And Pad R67_3-1(88.801mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_4_1 Between Pad R68_4-1(95.172mm,89.727mm) on Top Copper And Pad Q2_4-1(97.506mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_4_3 Between Pad Q2_4-3(100.006mm,88.838mm) on Top Copper And Pad R67_4-1(101.55mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_5_1 Between Pad R68_5-1(107.921mm,89.727mm) on Top Copper And Pad Q2_5-1(110.255mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_5_3 Between Pad Q2_5-3(112.755mm,88.838mm) on Top Copper And Pad R67_5-1(114.299mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_6_1 Between Pad R68_6-1(120.67mm,89.727mm) on Top Copper And Pad Q2_6-1(123.004mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_6_3 Between Pad Q2_6-3(125.504mm,88.838mm) on Top Copper And Pad R67_6-1(127.048mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_7_1 Between Pad R68_7-1(133.419mm,89.727mm) on Top Copper And Pad Q2_7-1(135.753mm,89.788mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_7_3 Between Pad Q2_7-3(138.253mm,88.838mm) on Top Copper And Pad R67_7-1(139.797mm,89.473mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ5_1 Between Pad R77-1(37.98mm,97.75mm) on Top Copper And Pad Q5-1(39.75mm,97.45mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q6-2(93.88mm,63.047mm) on Top Copper And Pad R85-1(95.6mm,63.08mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_1_1 Between Pad R88_1-2(53.98mm,17.6mm) on Top Copper And Pad Q7_1-1(54.94mm,15.877mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R88_1-1(53.02mm,17.6mm) on Top Copper And Pad Q7_1-2(53.04mm,15.877mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_2_1 Between Pad R88_2-2(66.77mm,17.6mm) on Top Copper And Pad Q7_2-1(67.73mm,15.877mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R88_2-1(65.81mm,17.6mm) on Top Copper And Pad Q7_2-2(65.83mm,15.877mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R88_3-1(91.32mm,17.6mm) on Top Copper And Pad Q7_3-2(91.34mm,15.877mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R88_4-1(78.62mm,17.6mm) on Top Copper And Pad Q7_4-2(78.64mm,15.877mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_5_1 Between Pad Q7_5-1(106.24mm,15.977mm) on Top Copper And Pad R87_5-1(113.78mm,16.43mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_6_1 Between Pad Q7_6-1(118.71mm,15.977mm) on Top Copper And Pad R87_6-1(126.25mm,16.43mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_7_1 Between Pad Q7_7-1(131.26mm,16.027mm) on Top Copper And Pad R87_7-1(138.8mm,16.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_8_1 Between Pad Q7_8-1(143.86mm,16.027mm) on Top Copper And Pad R87_8-1(151.4mm,16.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R11_1-1(55.62mm,38.6mm) on Top Copper And Via (57.396mm,38.582mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R11_2-1(81.32mm,38.6mm) on Top Copper And Via (83.096mm,38.582mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R38-2(106.48mm,23.8mm) on Top Copper And Pad R34-2(107.72mm,23.8mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetJ10_3 Between Pad R46-1(152.78mm,34mm) on Top Copper And Pad R52-2(152.78mm,35.2mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net FB_5V Between Pad R54-1(18.5mm,68.52mm) on Top Copper And Pad R55-2(19.82mm,68.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net FB_5V Between Pad U8-2(18.4mm,64.4mm) on Top Copper And Pad R54-1(18.5mm,68.52mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR57_1 Between Pad R57-1(28.2mm,19.5mm) on Top Copper And Pad R59-2(28.22mm,18.3mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SWD_SWCLK Between Pad R58-1(94.92mm,52.6mm) on Top Copper And Via (120mm,67mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO5 Between Pad R62-2(29.88mm,90.8mm) on Top Copper And Via (31mm,90mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_1_2 Between Via (58.233mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_1-2(61.045mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_2_2 Between Via (70.982mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_2-2(73.794mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_3_2 Between Via (83.731mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_3-2(86.543mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_4_2 Between Via (96.48mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_4-2(99.292mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_5_2 Between Via (109.229mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_5-2(112.041mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_6_2 Between Via (121.978mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_6-2(124.79mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD16_7_2 Between Via (134.727mm,96.813mm) from Top Copper to Bottom Copper And Pad R66_7-2(137.539mm,98.871mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM1 Between Pad R68_1-2(55.965mm,89.727mm) on Top Copper And Via (56mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM2 Between Via (68mm,89mm) from Top Copper to Bottom Copper And Pad R68_2-2(68.714mm,89.727mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM3 Between Via (81mm,89mm) from Top Copper to Bottom Copper And Pad R68_3-2(81.463mm,89.727mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM4 Between Via (94mm,89mm) from Top Copper to Bottom Copper And Pad R68_4-2(94.212mm,89.727mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM5 Between Pad R68_5-2(106.961mm,89.727mm) on Top Copper And Via (107mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM6 Between Via (119mm,89mm) from Top Copper to Bottom Copper And Pad R68_6-2(119.71mm,89.727mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM7 Between Via (132mm,89mm) from Top Copper to Bottom Copper And Pad R68_7-2(132.459mm,89.727mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM1 Between Pad R69_1-1(55.965mm,87.568mm) on Top Copper And Via (56mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM2 Between Pad R69_2-1(68.714mm,87.568mm) on Top Copper And Pad U11-18(116.6mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM2 Between Via (68mm,89mm) from Top Copper to Bottom Copper And Pad R69_2-1(68.714mm,87.568mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM3 Between Pad R69_3-1(81.463mm,87.568mm) on Top Copper And Pad U11-19(117.1mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM3 Between Via (81mm,89mm) from Top Copper to Bottom Copper And Pad R69_3-1(81.463mm,87.568mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM4 Between Pad R69_4-1(94.212mm,87.568mm) on Top Copper And Pad U11-39(118.6mm,65.355mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM4 Between Via (94mm,89mm) from Top Copper to Bottom Copper And Pad R69_4-1(94.212mm,87.568mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM5 Between Pad R69_5-1(106.961mm,87.568mm) on Top Copper And Via (107mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM6 Between Via (119mm,89mm) from Top Copper to Bottom Copper And Pad R69_6-1(119.71mm,87.568mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM7 Between Via (132mm,89mm) from Top Copper to Bottom Copper And Pad R69_7-1(132.459mm,87.568mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ5_1 Between Pad R77-1(37.98mm,97.75mm) on Top Copper And Pad R78-2(38mm,96.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO9 Between Pad R77-2(37.02mm,97.75mm) on Top Copper And Pad U16-1(47.095mm,95.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO9 Between Via (36mm,98mm) from Top Copper to Bottom Copper And Pad R77-2(37.02mm,97.75mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED Between Pad R84-2(95.6mm,59.42mm) on Top Copper And Via (96.8mm,59.1mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_1_1 Between Pad R88_1-2(53.98mm,17.6mm) on Top Copper And Pad R87_1-1(55.92mm,17.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_2_1 Between Pad R88_2-2(66.77mm,17.6mm) on Top Copper And Pad R87_2-1(68.71mm,17.6mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_5_1 Between Pad R87_5-1(113.78mm,16.43mm) on Top Copper And Pad R88_5-2(114.98mm,16.43mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_6_1 Between Pad R87_6-1(126.25mm,16.43mm) on Top Copper And Pad R88_6-2(127.45mm,16.43mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_7_1 Between Pad R87_7-1(138.8mm,16.48mm) on Top Copper And Pad R88_7-2(140mm,16.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ7_8_1 Between Pad R87_8-1(151.4mm,16.48mm) on Top Copper And Pad R88_8-2(152.6mm,16.48mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R94_1-1(158.1mm,66.04mm) on Top Copper And Pad U13_2-5(159.5mm,66.375mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net M\U\X\_\O\E\_1 Between Pad U13_1-10(156.5mm,65.325mm) on Top Copper And Pad R94_1-2(158.1mm,65.08mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net M\U\X\_\O\E\_2 Between Pad U13_2-10(161.5mm,61.925mm) on Top Copper And Pad R94_2-2(162.9mm,61.83mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net M\R\ Between Pad SW1-2(73.5mm,54.25mm) on Multi-Layer And Pad SW1-1(73.5mm,60.75mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net M\R\ Between Pad SW1-1(73.5mm,60.75mm) on Multi-Layer And Via (136mm,70mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM9 Between Pad TP42-1(93.6mm,79.6mm) on Bottom Copper And Track (93.6mm,79.12mm)(93.625mm,79.12mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO1 Between Pad U15-13(53.25mm,52.7mm) on Top Copper And Pad U11-16(115.6mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO2 Between Via (54mm,47mm) from Top Copper to Bottom Copper And Pad U11-17(116.1mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED Between Pad U11-2(112.825mm,63.58mm) on Top Copper And Pad U14-6(133.162mm,61.8mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED Between Via (96.8mm,59.1mm) from Top Copper to Bottom Copper And Pad U11-2(112.825mm,63.58mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO5 Between Via (81mm,47mm) from Top Copper to Bottom Copper And Pad U11-20(117.6mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_UART3.TX Between Via (50mm,20mm) from Top Copper to Bottom Copper And Pad U11-21(118.1mm,57.305mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM7 Between Pad U11-22(118.6mm,57.305mm) on Top Copper And Via (132mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO4 Between Pad U4_2-3(78.924mm,43.547mm) on Top Copper And Pad U11-25(120.875mm,58.58mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO3 Between Via (81mm,44mm) from Top Copper to Bottom Copper And Pad U11-29(120.875mm,60.58mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SWD_SWDIO Between Track (92.6mm,52.58mm)(92.62mm,52.6mm) on Top Copper And Pad U11-34(120.875mm,63.08mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SWD_SWCLK Between Pad U11-37(119.6mm,65.355mm) on Top Copper And Via (120mm,67mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM1 Between Via (56mm,89mm) from Top Copper to Bottom Copper And Pad U11-38(119.1mm,65.355mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM5 Between Via (107mm,89mm) from Top Copper to Bottom Copper And Pad U11-40(118.1mm,65.355mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net PWM6 Between Pad U11-41(117.6mm,65.355mm) on Top Copper And Via (119mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM8 Between Pad U11-42(117.1mm,65.355mm) on Top Copper And Via (145mm,89mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net PWM9 Between Track (94.615mm,79.895mm)(94.8mm,80.08mm) on Top Copper And Pad U11-43(116.6mm,65.355mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO14 Between Via (148mm,63.4mm) from Top Copper to Bottom Copper And Pad U12-6(151.15mm,61.32mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO15 Between Via (148mm,60.4mm) from Top Copper to Bottom Copper And Pad U12-7(151.15mm,60.05mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U15-1(58.85mm,50.75mm) on Top Copper And Pad U15-2(58.85mm,51.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SCL Between Via (50mm,55mm) from Top Copper to Bottom Copper And Pad U15-14(53.25mm,52.05mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SDA Between Via (50mm,52mm) from Top Copper to Bottom Copper And Pad U15-15(53.25mm,51.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U15-2(58.85mm,51.4mm) on Top Copper And Pad U15-3(58.85mm,52.05mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO1 Between Pad U15-4(58.85mm,52.7mm) on Top Copper And Via (61.3mm,41mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO2 Between Pad U15-5(58.85mm,53.35mm) on Top Copper And Via (73.295mm,41.004mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO3 Between Pad U15-6(58.85mm,54mm) on Top Copper And Via (87mm,41mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO4 Between Pad U15-7(58.85mm,54.65mm) on Top Copper And Via (98.995mm,41.004mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO5 Between Via (31mm,90mm) from Top Copper to Bottom Copper And Pad U15-9(53.25mm,55.3mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO11 Between Pad U16-2(48.365mm,95.5mm) on Top Copper And Pad U16-3(49.635mm,95.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO11 Between Via (47mm,98mm) from Top Copper to Bottom Copper And Pad U16-2(48.365mm,95.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GPIO8 Between Via (50mm,98mm) from Top Copper to Bottom Copper And Pad U16-4(50.905mm,95.5mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO1 Between Pad U2_1-6(60.874mm,39.582mm) on Top Copper And Via (61.3mm,41mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net EXP_GPIO3 Between Pad U2_2-6(86.574mm,39.582mm) on Top Copper And Via (87mm,41mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO2 Between Pad U4_1-1(53.224mm,46.087mm) on Top Copper And Via (54mm,47mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO3 Between Pad U4_1-2(53.224mm,44.817mm) on Top Copper And Via (81mm,44mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO4 Between Pad U4_1-3(53.224mm,43.547mm) on Top Copper And Via (54.5mm,43.6mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO5 Between Pad U4_2-1(78.924mm,46.087mm) on Top Copper And Via (81mm,47mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO3 Between Pad U4_2-2(78.924mm,44.817mm) on Top Copper And Via (81mm,44mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net STM_GPIO4 Between Via (54.5mm,43.6mm) from Top Copper to Bottom Copper And Pad U4_2-3(78.924mm,43.547mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net X1 Between Pad U6-1(42.34mm,34.1mm) on Top Copper And Pad X1-1(43.05mm,37mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net X2 Between Pad X1-2(40.55mm,37mm) on Top Copper And Pad U6-2(41.07mm,34.1mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_UART3.TX Between Pad U7-2(49.235mm,18.8mm) on Top Copper And Via (50mm,20mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SCL Between Pad U7-4(46.695mm,18.8mm) on Top Copper And Via (50mm,55mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SDA Between Pad U7-5(46.695mm,13.4mm) on Top Copper And Via (50mm,52mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-7(49.235mm,13.4mm) on Top Copper And Pad U7-8(50.505mm,13.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SW_5V Between Via (16.7mm,57.4mm) from Top Copper to Bottom Copper And Pad U8-3(16.7mm,64.4mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SDA Between Via (50mm,52mm) from Top Copper to Bottom Copper And Track (114.675mm,67.55mm)(115.1mm,67.125mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net I2C1_SCL Between Via (50mm,55mm) from Top Copper to Bottom Copper And Track (115.6mm,65.355mm)(115.6mm,67.325mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (147.2mm,87.6mm) from Top Copper to Bottom Copper And Track (148.508mm,87.894mm)(149.494mm,87.894mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net USB.DATA_1_N Between Track (163.99mm,60.41mm)(163.99mm,62.36mm) on Top Copper And Track (165.74mm,61.46mm)(166.39mm,61.46mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net USB.DATA_1_P Between Track (164.27mm,60.526mm)(164.27mm,62.476mm) on Top Copper And Track (165.856mm,61.74mm)(166.39mm,61.74mm) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net STM_UART3.TX Between Track (38.365mm,18.82mm)(39.27mm,19.725mm) on Top Copper And Via (50mm,20mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (155.2mm,16.7mm) from Top Copper to Bottom Copper And Via (156.28mm,15.3mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net MUX_SEL_1 Between Via (156mm,72.4mm) from Top Copper to Bottom Copper And Via (161mm,69.4mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (54.642mm,38.6mm) from Top Copper to Bottom Copper And Via (54.642mm,39.8mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65.691mm,41.867mm) from Top Copper to Bottom Copper And Via (66.891mm,41.867mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (76.382mm,38.682mm) from Top Copper to Bottom Copper And Via (80.342mm,38.6mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (80.342mm,38.6mm) from Top Copper to Bottom Copper And Via (80.342mm,39.8mm) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (91.391mm,41.867mm) from Top Copper to Bottom Copper And Via (92.591mm,41.867mm) from Top Copper to Bottom Copper 
+Rule Violations :372
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=2mm) (Preferred=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.152mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (106.044mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (106.182mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (11.666mm,115.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (11.758mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (112.14mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (112.278mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (118.762mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (118.793mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (124.858mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (124.889mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (131.362mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (131.542mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (137.458mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (137.638mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (143.962mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (144.291mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (150.058mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (150.387mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (17.762mm,115.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (17.854mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (24.558mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (30.654mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (37.191mm,0.029mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (37.26mm,114.966mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (42.892mm,0.029mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (42.929mm,114.966mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (48.561mm,0.029mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (48.63mm,114.966mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (55.048mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (55.048mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (61.144mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (61.144mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (67.797mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (67.797mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (73.893mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (73.893mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (80.546mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (80.748mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (86.642mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (86.844mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (93.295mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (93.497mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (99.391mm,115mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Arc (99.593mm,-0.033mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,105.58mm)(7.4mm,105.58mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,28.66mm)(0.1mm,48.46mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,28.66mm)(7.4mm,28.66mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,29.42mm)(7.4mm,29.42mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,47.7mm)(0.1mm,67.5mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,47.7mm)(7.4mm,47.7mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,48.46mm)(7.4mm,48.46mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,66.74mm)(0.1mm,86.54mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,66.74mm)(7.4mm,66.74mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,67.5mm)(7.4mm,67.5mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,85.78mm)(0.1mm,105.58mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,85.78mm)(7.4mm,85.78mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,86.54mm)(7.4mm,86.54mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,9.62mm)(0.1mm,29.42mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (0.1mm,9.62mm)(7.4mm,9.62mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (102.439mm,102.935mm)(102.439mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (102.641mm,-0.033mm)(102.641mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (102.996mm,102.935mm)(102.996mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (102.996mm,115mm)(115.188mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (103.134mm,-0.033mm)(103.134mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (103.134mm,-0.033mm)(115.326mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (115.188mm,102.935mm)(115.188mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (115.326mm,-0.033mm)(115.326mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (115.714mm,-0.033mm)(115.714mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (115.714mm,-0.033mm)(127.906mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (115.745mm,102.935mm)(115.745mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (115.745mm,115mm)(127.937mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (127.906mm,-0.033mm)(127.906mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (127.937mm,102.935mm)(127.937mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (128.314mm,-0.033mm)(128.314mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (128.314mm,-0.033mm)(140.506mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (128.494mm,102.935mm)(128.494mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (128.494mm,115mm)(140.686mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (140.506mm,-0.033mm)(140.506mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (140.686mm,102.935mm)(140.686mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (140.914mm,-0.033mm)(140.914mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (140.914mm,-0.033mm)(153.106mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (141.243mm,102.935mm)(141.243mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (141.243mm,115mm)(153.435mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (153.106mm,-0.033mm)(153.106mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (153.435mm,102.935mm)(153.435mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.29mm < 0.4mm) Between Board Edge And Track (153.83mm,0.34mm)(153.83mm,7.96mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.29mm < 0.4mm) Between Board Edge And Track (153.83mm,0.34mm)(156.37mm,0.34mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.29mm < 0.4mm) Between Board Edge And Track (156.37mm,0.34mm)(156.37mm,7.96mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.34mm < 0.4mm) Between Board Edge And Track (160.13mm,0.39mm)(160.13mm,8.01mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.34mm < 0.4mm) Between Board Edge And Track (160.13mm,0.39mm)(162.67mm,0.39mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.34mm < 0.4mm) Between Board Edge And Track (162.67mm,0.39mm)(162.67mm,8.01mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (20.81mm,102.968mm)(20.81mm,115.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (20.902mm,-0.033mm)(20.902mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (21.51mm,-0.033mm)(21.51mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (21.51mm,-0.033mm)(33.702mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (33.702mm,-0.033mm)(33.702mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (34.311mm,-0.033mm)(34.311mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (34.311mm,-0.033mm)(51.423mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (34.398mm,102.963mm)(34.398mm,115.028mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (34.398mm,115.028mm)(51.51mm,115.028mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (51.423mm,-0.033mm)(51.423mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (51.51mm,102.963mm)(51.51mm,115.028mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (52mm,-0.033mm)(52mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (52mm,-0.033mm)(64.192mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (52mm,102.935mm)(52mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (52mm,115mm)(64.192mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (64.192mm,-0.033mm)(64.192mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (64.192mm,102.935mm)(64.192mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (64.749mm,-0.033mm)(64.749mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (64.749mm,-0.033mm)(76.941mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (64.749mm,102.935mm)(64.749mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (64.749mm,115mm)(76.941mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (76.941mm,-0.033mm)(76.941mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (76.941mm,102.935mm)(76.941mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (77.498mm,102.935mm)(77.498mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (77.498mm,115mm)(89.69mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (77.7mm,-0.033mm)(77.7mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (77.7mm,-0.033mm)(89.892mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (8.618mm,102.968mm)(8.618mm,115.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (8.618mm,115.033mm)(20.81mm,115.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (8.71mm,-0.033mm)(20.902mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (8.71mm,-0.033mm)(8.71mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (89.69mm,102.935mm)(89.69mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (89.892mm,-0.033mm)(89.892mm,12.032mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (90.247mm,102.935mm)(90.247mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (90.247mm,115mm)(102.439mm,115mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (90.449mm,-0.033mm)(102.641mm,-0.033mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.4mm) Between Board Edge And Track (90.449mm,-0.033mm)(90.449mm,12.032mm) on Top Overlay 
+Rule Violations :128
+
+Processing Rule : Room 1Wire (Bounding Region = (208.221mm, 73.8mm, 225.6mm, 96.5mm) (InComponentClass('1Wire'))
+Rule Violations :0
+
+Processing Rule : Room RS485 (Bounding Region = (208.3mm, 167.9mm, 225.7mm, 189.195mm) (InComponentClass('RS485'))
+Rule Violations :0
+
+Processing Rule : Room BUZZ (Bounding Region = (250.001mm, 143.8mm, 269.8mm, 159.5mm) (InComponentClass('BUZZ'))
+Rule Violations :0
+
+Processing Rule : Room FFCConnector (Bounding Region = (342.5mm, 142.7mm, 351mm, 161.1mm) (False)
+Rule Violations :0
+
+Processing Rule : Room HDMIConnector (Bounding Region = (336mm, 162.1mm, 351.1mm, 179mm) (False)
+Rule Violations :0
+
+Processing Rule : Room AO2 (Bounding Region = (251.524mm, 73.882mm, 276.824mm, 122.4mm) (InComponentClass('AO2'))
+Rule Violations :0
+
+Processing Rule : Room AO1 (Bounding Region = (225.824mm, 73.882mm, 251.124mm, 122.4mm) (InComponentClass('AO1'))
+Rule Violations :0
+
+Processing Rule : Room LED_AI3 (Bounding Region = (264.49mm, 86.327mm, 276.57mm, 93.327mm) (InComponentClass('LED_AI3'))
+Rule Violations :0
+
+Processing Rule : Room AI (Bounding Region = (277.024mm, 73.882mm, 327.324mm, 116.5mm) (InComponentClass('AI'))
+Rule Violations :0
+
+Processing Rule : Room RJ45onnector (Bounding Region = (324.354mm, 100.2mm, 350.5mm, 118.406mm) (False)
+Rule Violations :0
+
+Processing Rule : Room DF40Connector_2 (Bounding Region = (290.7mm, 151.628mm, 315.18mm, 156.417mm) (False)
+Rule Violations :0
+
+Processing Rule : Room SDIOconnector_2 (Bounding Region = (287.147mm, 96.95mm, 308.747mm, 115.156mm) (False)
+Rule Violations :0
+
+Processing Rule : Room SDIOconnector_1 (Bounding Region = (329mm, 82.416mm, 350.6mm, 100.622mm) (False)
+Rule Violations :0
+
+Processing Rule : Room USBBConnector_2 (Bounding Region = (327.775mm, 179.3mm, 339.8mm, 190.738mm) (False)
+Rule Violations :0
+
+Processing Rule : Room USBBConnector_1 (Bounding Region = (339.652mm, 129.6mm, 350.9mm, 142.256mm) (False)
+Rule Violations :0
+
+Processing Rule : Room DF40Connector_1 (Bounding Region = (290.62mm, 117.6mm, 315.1mm, 122.388mm) (False)
+Rule Violations :0
+
+Processing Rule : Room USBAConnector (Bounding Region = (329.575mm, 119.1mm, 350.8mm, 127.838mm) (False)
+Rule Violations :0
+
+Processing Rule : Room BO6 (Bounding Region = (289.569mm, 160.044mm, 302.064mm, 189.127mm) (InComponentClass('BO6'))
+Rule Violations :0
+
+Processing Rule : Room BO5 (Bounding Region = (276.82mm, 160.044mm, 289.315mm, 189.127mm) (InComponentClass('BO5'))
+Rule Violations :0
+
+Processing Rule : Room BO8 (Bounding Region = (315.067mm, 160.044mm, 327.562mm, 189.127mm) (InComponentClass('BO8'))
+Rule Violations :0
+
+Processing Rule : Room BO7 (Bounding Region = (302.318mm, 160.044mm, 314.813mm, 189.127mm) (InComponentClass('BO7'))
+Rule Violations :0
+
+Processing Rule : Room BO4 (Bounding Region = (264.071mm, 160.044mm, 276.566mm, 189.127mm) (InComponentClass('BO4'))
+Rule Violations :0
+
+Processing Rule : Room BO1 (Bounding Region = (225.824mm, 160.044mm, 238.319mm, 189.127mm) (InComponentClass('BO1'))
+Rule Violations :0
+
+Processing Rule : Room LED_AI2 (Bounding Region = (238.98mm, 86.327mm, 251.06mm, 93.327mm) (InComponentClass('LED_AI2'))
+Rule Violations :0
+
+Processing Rule : Room BO3 (Bounding Region = (251.322mm, 160.044mm, 263.817mm, 189.127mm) (InComponentClass('BO3'))
+Rule Violations :0
+
+Processing Rule : Room BO2 (Bounding Region = (238.573mm, 160.044mm, 251.068mm, 189.127mm) (InComponentClass('BO2'))
+Rule Violations :0
+
+Processing Rule : Room LED_AO7 (Bounding Region = (289.96mm, 86.507mm, 302.06mm, 91.127mm) (InComponentClass('LED_AO7'))
+Rule Violations :0
+
+Processing Rule : Room LED_AO6 (Bounding Region = (277.49mm, 86.507mm, 289.59mm, 91.127mm) (InComponentClass('LED_AO6'))
+Rule Violations :0
+
+Processing Rule : Room LED_AO8 (Bounding Region = (302.51mm, 86.557mm, 314.61mm, 91.177mm) (InComponentClass('LED_AO8'))
+Rule Violations :0
+
+Processing Rule : Room LED_AI1 (Bounding Region = (226.19mm, 86.327mm, 238.27mm, 93.327mm) (InComponentClass('LED_AI1'))
+Rule Violations :0
+
+Processing Rule : Room LED_AI4 (Bounding Region = (251.79mm, 86.327mm, 263.87mm, 93.327mm) (InComponentClass('LED_AI4'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:01

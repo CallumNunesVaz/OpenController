@@ -1057,21 +1057,25 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for OpenPLCv0.2.0\Design Rule Check - OpenPLCv0.2.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Parameter2]
-Name=ProjectRevision
-Value=0.2
-
-[Parameter3]
 Name=ProjectDate
 Value=XX/XX/XXXX
 
+[Parameter3]
+Name=ProjectRevision
+Value=0.2
+
 [Parameter4]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Configuration1]
 Name=Sources
