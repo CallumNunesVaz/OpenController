@@ -57,7 +57,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -1062,20 +1062,20 @@ DocumentPath=Project Outputs for OpenPLCv0.2.0\Design Rule Check - OpenPLCv0.2.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Parameter2]
-Name=ProjectDate
-Value=XX/XX/XXXX
-
-[Parameter3]
 Name=ProjectRevision
 Value=0.2
 
+[Parameter3]
+Name=ProjectDate
+Value=XX/XX/XXXX
+
 [Parameter4]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Configuration1]
 Name=Sources
