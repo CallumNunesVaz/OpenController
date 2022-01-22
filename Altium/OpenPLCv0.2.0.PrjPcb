@@ -38,6 +38,12 @@ VaultGUID=7B591B99-967C-4ADD-896B-C8EB9FDFE7B3
 ReleaseVaultName=DefendTex
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=D814680C-BF6A-48BF-A460-F1E8172B4765&ItemGUID=50FE3F46-94DC-4D27-9DA7-AB1BA2AE4A35&RevisionGUID=6BA910E8-D873-4A71-AE70-C71AC0BF25C6&"MainFilename=PRJT-0003-1.PrjPCB"
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -1057,25 +1063,21 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for OpenPLCv0.2.0\Design Rule Check - OpenPLCv0.2.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=ProjectTitle
-Value=Open PLC
+Name=AuthorName
+Value=Callum Nunes-Vaz
 
 [Parameter2]
-Name=ProjectRevision
-Value=0.2
-
-[Parameter3]
 Name=ProjectDate
 Value=XX/XX/XXXX
 
+[Parameter3]
+Name=ProjectRevision
+Value=0.2
+
 [Parameter4]
-Name=AuthorName
-Value=Callum Nunes-Vaz
+Name=ProjectTitle
+Value=Open PLC
 
 [Configuration1]
 Name=Sources
