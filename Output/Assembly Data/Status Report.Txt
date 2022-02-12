@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Basic] of PCB Document [OpenPLCv0.2.0.PcbDoc]
+   Generated File[Pick Place for OpenPLCv0.2.0(Basic).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:55:15 PM On 12/02/2022

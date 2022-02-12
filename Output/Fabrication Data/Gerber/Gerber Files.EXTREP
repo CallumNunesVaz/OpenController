@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Gerber Files.GBR   12/02/2022  2:57:03 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Copper                              
+.G1                 Int1 Copper (GND)                       
+.G2                 Int2 Copper (GND)                       
+.GBL                Bottom Copper                           
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Board                                   
+.GM2                Fab Notes                               
+.GM21               90R diff pairs top layer                
+.GM22               90R diff pairs bottom layer             
+.GM23               100R diff pairs top layer               
+.GM24               100R diff pairs bottom layer            
+.GM25               120R diff pairs top layer               
+.GM26               120R diff pairs bottom layer            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

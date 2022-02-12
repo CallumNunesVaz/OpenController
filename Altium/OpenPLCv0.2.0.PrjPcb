@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for OpenPLCv0.2.0
 LogFolderPath=
 ManagedProjectGUID=
 VaultGUID=7B591B99-967C-4ADD-896B-C8EB9FDFE7B3
@@ -172,23 +172,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YYPEACGZ
 
 [Document8]
-DocumentPath=OpenPLCv0.2.0_Schematic.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=OpenPLCv0.2.0_AnalogueOutput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPPLPPTU
 
-[Document10]
+[Document9]
 DocumentPath=OpenPLCv0.2.0_AnalogueOutput.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=OpenPLCv0.2.0_Capacitor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDBAMEGM
 
-[Document12]
+[Document11]
 DocumentPath=OpenPLCv0.2.0_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTKEPFNG
 
-[Document13]
+[Document12]
 DocumentPath=OpenPLCv0.2.0_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQRAVMXM
 
-[Document14]
+[Document13]
 DocumentPath=OpenPLCv0.2.0_Discrete_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYQCTNXM
 
-[Document15]
+[Document14]
 DocumentPath=OpenPLCv0.2.0_IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJAUARYW
 
-[Document16]
+[Document15]
 DocumentPath=OpenPLCv0.2.0_IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAYVIABH
 
-[Document17]
+[Document16]
 DocumentPath=OpenPLCv0.2.0_Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFYULGQO
 
-[Document18]
+[Document17]
 DocumentPath=OpenPLCv0.2.0_Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBXJJPNU
 
-[Document19]
+[Document18]
 DocumentPath=OpenPLCv0.2.0_AnalogueInput.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BWJJZHPA
 
-[Document20]
+[Document19]
 DocumentPath=OpenPLCv0.2.0_RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIGAOVTA
 
-[Document21]
+[Document20]
 DocumentPath=OpenPLCv0.2.0_RTC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=OpenPLCv0.2.0_Passives.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,7 +409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJQJONYL
 
-[Document23]
+[Document22]
 DocumentPath=OpenPLCv0.2.0_Display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -443,7 +426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWYLZLFV
 
-[Document24]
+[Document23]
 DocumentPath=OpenPLCv0.2.0_Display.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=OpenPLCv0.2.0_1Wire.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -477,7 +460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMCKCQPR
 
-[Document26]
+[Document25]
 DocumentPath=OpenPLCv0.2.0_1Wire.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,7 +477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=OpenPLCv0.2.0_Etherent.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -511,7 +494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EABXWMBD
 
-[Document28]
+[Document27]
 DocumentPath=OpenPLCv0.2.0_Etherent.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -528,7 +511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=OpenPLCv0.2.0_USBPortTypeA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -545,7 +528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWMIPTWA
 
-[Document30]
+[Document29]
 DocumentPath=OpenPLCv0.2.0_Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -562,7 +545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJHQJFSN
 
-[Document31]
+[Document30]
 DocumentPath=OpenPLCv0.2.0_Transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -579,7 +562,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNGWHKET
 
-[Document32]
+[Document31]
 DocumentPath=OpenPLCv0.2.0_BinaryOut.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -596,7 +579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFZIBJPZ
 
-[Document33]
+[Document32]
 DocumentPath=OpenPLCv0.2.0_Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -613,7 +596,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQBLVTOZ
 
-[Document34]
+[Document33]
 DocumentPath=OpenPLCv0.2.0_Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -630,7 +613,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMVQYPSL
 
-[Document35]
+[Document34]
 DocumentPath=OpenPLCv0.2.0_IOController.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -647,7 +630,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNDIFNBJ
 
-[Document36]
+[Document35]
 DocumentPath=OpenPLCv0.2.0_IOController.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -664,7 +647,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=OpenPLCv0.2.0_IOLED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -681,7 +664,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUWRBWDR
 
-[Document38]
+[Document37]
 DocumentPath=OpenPLCv0.2.0_USBPortTypeA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -698,7 +681,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=OpenPLCv0.2.0_Assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -715,7 +698,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=OpenPLCv0.2.0_Fabrication.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -732,7 +715,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=OpenPLCv0.2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -749,7 +732,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHGXIQRB
 
-[Document42]
+[Document41]
 DocumentPath=OpenPLCv0.2.0_PANEL.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -766,7 +749,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHSDSGDL
 
-[Document43]
+[Document42]
 DocumentPath=OpenPLCv0.2.0_SerialInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -783,7 +766,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGRTPGYN
 
-[Document44]
+[Document43]
 DocumentPath=OpenPLCv0.2.0_SerialInterface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -800,7 +783,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=OpenPLCv0.2.0_USBSwitch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -817,7 +800,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTBPWULJ
 
-[Document46]
+[Document45]
 DocumentPath=OpenPLCv0.2.0_USBSwitch.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -834,7 +817,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=OpenPLCv0.2.0_USBPortTypeB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -851,7 +834,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSITRXKE
 
-[Document48]
+[Document47]
 DocumentPath=OpenPLCv0.2.0_USBPortTypeB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -868,7 +851,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=OpenPLCv0.2.0_SDCard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -885,7 +868,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOFIORKC
 
-[Document50]
+[Document49]
 DocumentPath=OpenPLCv0.2.0_SDCard.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -902,7 +885,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=OpenPLCv0.2.0_Buzzer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -919,7 +902,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RINWOQRZ
 
-[Document52]
+[Document51]
 DocumentPath=OpenPLCv0.2.0_ExpansionHeader.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -936,7 +919,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BEBKSOZB
 
-[Document53]
+[Document52]
 DocumentPath=OpenPLCv0.2.0_ExpansionHeader.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -953,7 +936,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=OpenPLCv0.2.0_Watchdog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -970,7 +953,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MUDYPBXZ
 
-[Document55]
+[Document54]
 DocumentPath=OpenPLCv0.2.0_RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -987,7 +970,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMHMDPJD
 
-[Document56]
+[Document55]
 DocumentPath=OpenPLCv0.2.0_GPIOExpander.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1004,7 +987,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVXMSMSH
 
-[Document57]
+[Document56]
 DocumentPath=OpenPLCv0.2.0_GPIOExpander.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1021,7 +1004,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=OpenPLCv0.2.0_RS485.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1038,7 +1021,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=OpenPLCv0.2.0_TopLevel.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1124,6 +1107,9 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=OpenPLCv0.2.0_Assembly.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
+
+[Generic_EDE]
+OutputDir=Project Outputs for OpenPLCv0.2.0
 
 [OutputGroup1]
 Name=Netlist Outputs

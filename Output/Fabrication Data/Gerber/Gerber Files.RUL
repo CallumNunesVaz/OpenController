@@ -1,0 +1,19 @@
+DRC Rules Export File for PCB: C:\Users\Callum\Documents\OpenController\Altium\OpenPLCv0.2.0.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Mousebite|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_Fiducial|Scope=Board|Minimum=35.43
+RuleKind=Clearance|RuleName=Clearance_100R_GNDPour|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_90R_GNDPour|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_SPI_DATA|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_SPI_CLK|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width_SING_50R|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Clearance_SDIO_CLK_CMD|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_100R_OtherNets|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_SDIO_DATA|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_90R_OtherNets|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_90R_OtherPairs|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_100R_OtherPairs|Scope=Board|Minimum=30.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

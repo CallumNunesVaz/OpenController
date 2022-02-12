@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=OpenPLCv0.2.0_Assembly.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=PDF
 VariantName=Basic
-VariantScope=2
-CurrentConfigurationName=Assembly Basic
-TargetPrinter=HPB399DA (HP ENVY 6000 series)
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -36,7 +36,7 @@ OutputName1=Draftsman
 OutputCategory1=Documentation
 OutputDocumentPath1=OpenPLCv0.2.0_Assembly.PCBDwf
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -50,7 +50,7 @@ OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
-OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium3=2
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|AddToAllPlots_=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=False|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=False|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|DocumentPath=C:\Users\Callum\Documents\OpenController\Altium\OpenPLCv0.2.0.PcbDoc
@@ -59,7 +59,7 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=OpenPLCv0.2.0.BomDoc
 OutputVariantName3=STD
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=1
@@ -83,19 +83,31 @@ Configuration3_Name8=VisibleOrder_Consolidated
 Configuration3_Item8=Item ID=104|Designator=97|Description=99|Quantity=84|Manufacturer Part Number 1=186|Layer=91|Variant=76|Fitted=70
 Configuration3_Name9=VisibleOrder_Flat
 Configuration3_Item9=Item ID=195|Designator=182|Description=186|Quantity=157|Layer=100|Manufacturer Part Number 1=313|Variant=127|Fitted=135
+OutputType4=Pick Place
+OutputName4=Generates pick and place files
+OutputCategory4=Assembly
+OutputDocumentPath4=OpenPLCv0.2.0.PcbDoc
+OutputVariantName4=
+OutputEnabled4=0
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=3
+OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Voltage Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#18=Name:Load capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#19=Name:DC Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#20=Name:inductance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#21=Name:Power Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#22=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#23=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#24=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#25=Name:Saturation Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#26=Name:Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#27=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#28=Name:Current Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#29=Name:Parallel Inductance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#30=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|DocumentPath=C:\Users\Callum\Documents\OpenController\Altium\OpenPLCv0.2.0.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\.PDF
-ReleaseManaged2=1
-OutputBasePath2=
-OutputPathMedia2=
-OutputPathMediaValue2=
+OutputFilePath2=C:\Users\Callum\Documents\OpenController\Output\OpenController_Assembly.PDF
+ReleaseManaged2=0
+OutputBasePath2=..\Output\
+OutputPathMedia2=Assembly Data
+OutputPathMediaValue2=Assembly Data
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Assembly.PDF
+OutputFileName2=OpenController_Assembly.PDF
 OutputFileNameMulti2=
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
@@ -112,9 +124,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Callum\Documents\OpenController\Altium\Project Outputs for OpenPLCv0.2.0\
-ReleaseManaged3=1
-OutputBasePath3=
+OutputFilePath3=C:\Users\Callum\Documents\OpenController\Output\Assembly Data\
+ReleaseManaged3=0
+OutputBasePath3=..\Output\
 OutputPathMedia3=Assembly Data
 OutputPathMediaValue3=Assembly Data
 OutputPathOutputer3=[Output Type]
@@ -127,9 +139,9 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\.PDF
+RelativeOutputPath2=C:\Users\Callum\Documents\OpenController\Output\OpenController_Assembly.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\Callum\Documents\OpenController\Altium\Project Outputs for OpenPLCv0.2.0\
+RelativeOutputPath3=C:\Users\Callum\Documents\OpenController\Output\Assembly Data\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
